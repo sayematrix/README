@@ -98,60 +98,6 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="1120" alt="Notion" />
 </p>
 
----
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>✉️ Email</h4>
-      <p><code>sayem.professional@gmail.com</code></p>
-      <p><em>For professional inquiries and opportunities.</em></p>
-      <p>
-        <a href="mailto:sayem.professional@gmail.com">
-          <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💼 LinkedIn</h4>
-      <p><code>linkedin.com/in/sayematrix</code></p>
-      <p><em>For professional networking and industry connections.</em></p>
-      <p>
-        <a href="https://linkedin.com/in/sayematrix">
-          <img src="https://img.shields.io/badge/Connect%20→-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🐙 GitHub</h4>
-      <p><code>github.com/sayematrix</code></p>
-      <p><em>For technical projects, systems, and experiments.</em></p>
-      <p>
-        <a href="https://github.com/sayematrix">
-          <img src="https://img.shields.io/badge/View%20Code%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ SAYEMATRIX</h4>
-      <p><code>Instagram & YouTube — @sayematrix</code></p>
-      <p><em>For my digital work, ideas, content, and ecosystem.</em></p>
-      <p>
-        <a href="https://instagram.com/sayematrix">
-          <img src="https://img.shields.io/badge/Instagram%20→-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-        &nbsp;
-        <a href="https://youtube.com/@sayematrix">
-          <img src="https://img.shields.io/badge/YouTube%20→-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
 
