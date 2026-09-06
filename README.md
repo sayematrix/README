@@ -1,12 +1,20 @@
 <div align="center">
 
-# Sayem
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=220&section=header&text=SAYEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneur%20%E2%80%A2%20Investor%20%E2%80%A2%20Developer%20%E2%80%A2%20OS%20Builder%20%E2%80%A2%20Quant&descAlignY=58&descSize=15" width="100%" alt="Sayem Banner" />
 
-**Entrepreneur • Investor • Developer • OS Builder • Creator**
+<br />
 
-`AI × Quant Finance × FinTech × Algorithmic Trading × Software × Data × Systems`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+SANR+Corporation;Architecting+the+SAYEMATRIX+Ecosystem;Turning+deep+first-principles+research+into+ventures)](https://git.io/typing-svg)
 
-*I learn, research, build, and turn ideas into systems, products, and businesses.*
+<p align="center">
+  <a href="#-flagship-initiatives"><img src="https://img.shields.io/badge/FOUNDATION-SANR%20Corporation-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="SANR Corp" /></a>
+  <a href="#-flagship-initiatives"><img src="https://img.shields.io/badge/ECOSYSTEM-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" /></a>
+  <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/FOCUS-Quant%20Trading-0969DA?style=for-the-badge&logo=tradingview&logoColor=white" alt="Quant Model" /></a>
+  <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Systems" /></a>
+</p>
+
+> **"I learn, research, build, and turn ideas into systems, products, and businesses."**
 
 <br />
 
@@ -14,94 +22,191 @@
 
 ---
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEMS ENGINE & VENTURE ARCHITECTURE                                       │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  [ DEEP RESEARCH ]  ───>  [ SYSTEMATIC ENGINES ]  ───>  [ VENTURES ]         │
-│  -  Quantitative Models     -  Algorithmic Trading         -  SANR Corp         │
-│  -  Financial Mechanics     -  Data & Stream Pipelines     -  SAYEMATRIX        │
-│  -  Applied AI & Logic      -  Autonomous Systems          -  Production        │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+### ⚡ Systems Architecture & Engine Flow
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2001-ALPHA%20RESEARCH-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Alpha Research" />
+      <br /><br />
+      <b>🔬 Deep Quant Research</b>
+      <p align="left">
+        <sub>
+        • Statistical Arbitrage & Microstructure<br />
+        • Non-linear Predictive Alpha Models<br />
+        • Market Dynamics & Factor Backtesting<br />
+        • Applied AI & Machine Learning Signals
+        </sub>
+      </p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20ENGINES-0969DA?style=for-the-badge&logo=speedtest&logoColor=white" alt="System Engines" />
+      <br /><br />
+      <b>⚡ Systematic Execution</b>
+      <p align="left">
+        <sub>
+        • Deterministic Algorithmic Trading<br />
+        • Ultra Low-Latency Order Routing<br />
+        • Autonomous High-Throughput Streams<br />
+        • Real-Time Risk & Drawdown Frameworks
+        </sub>
+      </p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2003-SCALE%20%26%20HOLDING-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Scale and Holding" />
+      <br /><br />
+      <b>🏛️ Enterprise Scale</b>
+      <p align="left">
+        <sub>
+        • SANR Corporation Limited<br />
+        • Venture Architecture & Commercial Growth<br />
+        • Proprietary Capital Compounding<br />
+        • Institutional FinTech Infrastructure
+        </sub>
+      </p>
+    </td>
+  </tr>
+</table>
+
+I operate at the intersection of **quantitative finance**, **applied artificial intelligence**, and **systems engineering**. My work is driven by first principles: deconstructing complex financial and computational mechanics, engineering resilient architectures, and translating proven algorithms into enduring enterprises.
 
 ---
 
-## • About
-
-I operate at the intersection of **quantitative finance**, **artificial intelligence**, **systems engineering**, and **financial technology**.
-
-My work is driven by first principles: breaking down complex financial and computational problems, designing resilient mathematical and software architectures, and translating verified ideas into enduring systems, products, and enterprises.
-
----
-
-## • Primary Pillars
+### 🚀 Flagship Initiatives
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏛️ SANR Corporation Limited</h3>
-      <em>The Long-Term Venture Foundation</em>
-      <br /><br />
-      The corporate umbrella and capital vehicle for future companies, strategic investments, technology platforms, and long-term business initiatives.
-      <br /><br />
+      <h3 align="left">🏛️ SANR Corporation Limited</h3>
+      <p><em>Founder & Executive Direction</em></p>
+      <p>The long-term enterprise holding vehicle for future technology platforms, proprietary trading entities, strategic capital allocation, and commercial ventures.</p>
       <ul>
-        <li>Strategic enterprise development</li>
-        <li>Capital allocation & venture building</li>
-        <li>Institutional FinTech & commercialization</li>
+        <li><strong>Venture Architecture:</strong> Capital structuring & commercial expansion</li>
+        <li><strong>FinTech Platforms:</strong> Institutional-grade market technology</li>
+        <li><strong>Enterprise Governance:</strong> Strategic direction & operational scale</li>
       </ul>
+      <p>🔗 <code>sanrcorp.com</code> <em>(holding platform)</em></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ SAYEMATRIX</h3>
-      <em>Personal Digital Ecosystem & Lab</em>
-      <br /><br />
-      An open digital ecosystem designed for continuous learning, technical research, experimental prototyping, systems engineering, and knowledge distribution.
-      <br /><br />
+      <h3 align="left">⚡ SAYEMATRIX</h3>
+      <p><em>Personal Digital Ecosystem & Laboratory</em></p>
+      <p>An open digital ecosystem designed for continuous learning, systematic research, high-frequency prototyping, OS design, and knowledge synthesis.</p>
       <ul>
-        <li>Quantitative research & trading experiments</li>
-        <li>AI automation workflows & tools</li>
-        <li>System architecture & OS development</li>
+        <li><strong>Quantitative Lab:</strong> Algorithmic models & execution systems</li>
+        <li><strong>AI Automation:</strong> Autonomous stream intelligence & pipelines</li>
+        <li><strong>OS & Tooling:</strong> Custom environments for accelerated iteration</li>
       </ul>
+      <p>🔗 <code>sayematrix.com</code> <em>(digital ecosystem)</em></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## • Core Focus & Capabilities
+### ⚡ Core Focus & Capabilities
 
-| Domain | Focus Area | Core Competencies |
+| Domain | Focus Area | Core Stack & Methodologies |
 | :--- | :--- | :--- |
-| **Quant Finance** | Primary Professional Direction | Systematic / Algorithmic Trading • Statistical Modeling • Risk Frameworks • Execution Systems |
-| **Intelligence** | AI & Automation | Machine Learning • Intelligent Workflows • Financial Intelligence • Autonomous Pipelines |
-| **FinTech** | Products & Infrastructure | Modern Financial Technologies • Quantitative Analysis • Market Mechanics • Real-time APIs |
-| **Engineering** | Software & Architecture | Distributed Systems • High-Reliability Software • Data Analytics • Developer Tooling |
+| **Quant Finance** | Primary Direction | Systematic Trading • Statistical Arbitrage • Risk Frameworks • Execution Engines |
+| **Artificial Intelligence** | Intelligence & Automation | Machine Learning • Predictive Data Streams • Financial Intelligence • Autonomous Workflows |
+| **Financial Technology** | Infrastructure | Real-time Market Data • Execution Protocols • Quantitative Analytics • FinTech APIs |
+| **Systems Architecture** | Core Engineering | High-Reliability Backends • Distributed Computing • Low-Latency Systems • OS Tooling |
 
 ---
 
-## • Current Work & Active Research
+### 📊 Activity & Telemetry
 
-- **Systematic & Algorithmic Trading:** Designing quantitative models, backtesting engines, execution logic, and automated risk controls.  
-- **Financial Intelligence:** Synthesizing data pipelines, AI models, and real-time market data to uncover actionable alpha.  
-- **Autonomous Digital Systems:** Engineering resilient software architectures, background services, and deterministic automation.  
-- **Foundational OS Tooling:** Developing tools and environments that accelerate research and rapid product iteration.  
+<div align="center">
 
----
-
-## • Connect
-
-```text
-[ Web ]       [https://sayematrix.com](https://sayematrix.com)        (placeholder)
-[ Corporate ] [https://sanrcorp.com](https://sanrcorp.com)          (placeholder)
-[ LinkedIn ]  [https://linkedin.com/in/sayem](https://linkedin.com/in/sayem) (placeholder)
-[ X/Twitter ] [https://x.com/sayem](https://x.com/sayem)           (placeholder)
-[ Contact ]   contact@sanrcorp.com          (placeholder)
-```
+<img src="https://github-readme-stats.vercel.app/api?username=sayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9" alt="Sayem's GitHub Stats" height="150" />
+<img src="https://streak-stats.demolab.com?user=sayem&theme=tokyonight&hide_border=true&background=0d1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" alt="Sayem's Streak Stats" height="150" />
 
 <br />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9" alt="Top Languages" height="140" />
+
+</div>
+
+---
+
+### 🛠️ Languages & Infrastructure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📬 Connect & Collaborate
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✉️ Email</h4>
+      <p><code>sayem.professional@gmail.com</code></p>
+      <p><em>For professional inquiries and opportunities.</em></p>
+      <p>
+        <a href="mailto:sayem.professional@gmail.com">
+          <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 LinkedIn</h4>
+      <p><code>linkedin.com/in/sayematrix</code></p>
+      <p><em>For professional networking and industry connections.</em></p>
+      <p>
+        <a href="https://linkedin.com/in/sayematrix">
+          <img src="https://img.shields.io/badge/Connect%20→-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐙 GitHub</h4>
+      <p><code>github.com/sayematrix</code></p>
+      <p><em>For technical projects, systems, and experiments.</em></p>
+      <p>
+        <a href="https://github.com/sayematrix">
+          <img src="https://img.shields.io/badge/View%20Code%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ SAYEMATRIX</h4>
+      <p><code>Instagram & YouTube — @sayematrix</code></p>
+      <p><em>For my digital work, ideas, content, and ecosystem.</em></p>
+      <p>
+        <a href="https://instagram.com/sayematrix">
+          <img src="https://img.shields.io/badge/Instagram%20→-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+        &nbsp;
+        <a href="https://youtube.com/@sayematrix">
+          <img src="https://img.shields.io/badge/YouTube%20→-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
+
 <div align="center">
-  <sub>Engineered for depth, clarity, and precision.</sub>
+  <sub>Engineered with precision • Built for permanence</sub>
 </div>
