@@ -119,7 +119,9 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </td>
 <td width="35%" align="right">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mql5&perline=3" height="65" />
+<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="65" />
+
+<img src="https://img.shields.io/badge/MQL5-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="38" />
 
 <br />
 
@@ -130,6 +132,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <tr>
 <td width="65%" align="left">
+
 
 ###  Backend / APIs
 
