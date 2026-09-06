@@ -1,69 +1,107 @@
-# Hi, I'm Sayem 👋
+<div align="center">
 
-**Entrepreneur • Investor • Developer • OS Builder • Creator**
+# Sayem
 
-> *I learn, research, build, and turn ideas into systems, products, and businesses.*
-
----
-
-### About Me
-
-I build at the intersection of **quantitative finance, artificial intelligence, software engineering, and financial technology**. 
-
-My focus is centered on understanding hard problems from first principles, building practical and resilient systems, and translating research into enduring products and ventures.
+### Entrepreneur &bull; Investor &bull; Developer &bull; OS Builder &bull; Creator
 
 ```
 AI  ×  Quant Finance  ×  FinTech  ×  Algorithmic Trading  ×  Software  ×  Data  ×  Systems
 ```
 
----
+*I learn, research, build, and turn ideas into systems, products, and businesses.*
 
-### Core Focus & Expertise
+<br />
 
-- **Primary Direction:** Quantitative Finance & Algorithmic / Systematic Trading
-- **Focus Areas:** Financial Intelligence • AI & Machine Learning • Automation • FinTech • Data & Analytics • Product Development
-- **Supporting Disciplines:** Quantitative Analysis • Digital Systems • Applied Research • Software & Systems Architecture
+</div>
 
----
-
-### What I'm Building
-
-#### 🏛️ **SANR Corporation Limited**
-The foundation for my long-term business ventures, future enterprises, technology initiatives, and strategic investments.
-
-#### ⚡ **SAYEMATRIX**
-My personal digital ecosystem for deep learning, active experimentation, system building, research, and knowledge synthesis.
-
----
-
-### Current Interests & Exploration
-
-- Systematic trading strategies, quantitative modeling, and risk frameworks
-- Real-time automated systems and high-throughput data processing
-- Applied artificial intelligence for financial intelligence and automated workflows
-- Modular digital systems architecture and developer tooling
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEMS ENGINE & VENTURE ARCHITECTURE                                       │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│   [ DEEP RESEARCH ]   ───>   [ SYSTEMATIC ENGINES ]   ───>   [ VENTURES ]    │
+│   • Quantitative Models      • Algorithmic Trading           • SANR Corp     │
+│   • Financial Mechanics      • Data & Stream Pipelines       • SAYEMATRIX    │
+│   • Applied AI & Logic       • Autonomous Systems            • Production    │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### Selected Areas
+### &bull; About
 
-| Focus Area | Domains & Methodologies |
-| :--- | :--- |
-| **Quantitative Finance** | Algorithmic trading, statistical modeling, execution strategies, risk architecture |
-| **AI & Automation** | Machine learning, data pipelines, workflow automation, intelligent decision systems |
-| **Systems & Engineering** | High-reliability backends, scalable software architecture, data infrastructure |
+I operate at the intersection of **quantitative finance**, **artificial intelligence**, **systems engineering**, and **financial technology**.
+
+My work is driven by first principles: breaking down complex financial and computational problems, designing resilient mathematical and software architectures, and translating verified ideas into enduring systems, products, and enterprises.
 
 ---
 
-### Connect
+### &bull; Primary Pillars
 
-- **Website:** [sayematrix.com](https://example.com) *(placeholder)*
-- **LinkedIn:** [linkedin.com/in/sayem](https://linkedin.com) *(placeholder)*
-- **X / Twitter:** [@sayem](https://x.com) *(placeholder)*
-- **Email:** [contact@sanrcorp.com](mailto:contact@sanrcorp.com) *(placeholder)*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏛️ SANR Corporation Limited</h3>
+      <em>The Long-Term Venture Foundation</em>
+      <br /><br />
+      The corporate umbrella and capital vehicle for future companies, strategic investments, technology platforms, and long-term business initiatives.
+      <br /><br />
+      <ul>
+        <li>Strategic enterprise development</li>
+        <li>Capital allocation & venture building</li>
+        <li>Institutional FinTech & commercialization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ SAYEMATRIX</h3>
+      <em>Personal Digital Ecosystem & Lab</em>
+      <br /><br />
+      An open digital ecosystem designed for continuous learning, technical research, experimental prototyping, systems engineering, and knowledge distribution.
+      <br /><br />
+      <ul>
+        <li>Quantitative research & trading experiments</li>
+        <li>AI automation workflows & tools</li>
+        <li>System architecture & OS development</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
+
+### &bull; Core Focus & Capabilities
+
+| Domain | Focus Area | Core Competencies |
+| :--- | :--- | :--- |
+| **Quant Finance** | Primary Professional Direction | Systematic / Algorithmic Trading &bull; Statistical Modeling &bull; Risk Frameworks &bull; Execution Systems |
+| **Intelligence** | AI & Automation | Machine Learning &bull; Intelligent Workflows &bull; Financial Intelligence &bull; Autonomous Pipelines |
+| **FinTech** | Products & Infrastructure | Modern Financial Technologies &bull; Quantitative Analysis &bull; Market Mechanics &bull; Real-time APIs |
+| **Engineering** | Software & Architecture | Distributed Systems &bull; High-Reliability Software &bull; Data Analytics &bull; Developer Tooling |
+
+---
+
+### &bull; Current Work & Active Research
+
+- **Systematic & Algorithmic Trading:** Designing quantitative models, backtesting engines, execution logic, and automated risk controls.
+- **Financial Intelligence:** Synthesizing data pipelines, AI models, and real-time market data to uncover actionable alpha.
+- **Autonomous Digital Systems:** Engineering resilient software architectures, background services, and deterministic automation.
+- **Foundational OS Tooling:** Developing tools and environments that accelerate research and rapid product iteration.
+
+---
+
+### &bull; Connect
+
+```
+[ Web ]       https://sayematrix.com        (placeholder)
+[ Corporate ] https://sanrcorp.com          (placeholder)
+[ LinkedIn ]  https://linkedin.com/in/sayem (placeholder)
+[ X/Twitter ] https://x.com/sayem           (placeholder)
+[ Contact ]   contact@sanrcorp.com          (placeholder)
+```
+
+<br />
 
 <div align="center">
-  <sub>Crafted for substance, clarity, and longevity.</sub>
+  <sub>Engineered for depth, clarity, and precision.</sub>
 </div>
