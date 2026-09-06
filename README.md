@@ -112,20 +112,18 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### Quantitative Finance & Trading
+###  Quantitative Finance & Trading
 
-<b>Quant Python</b> • <b>Quant C++</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
+<b>Quant Python</b> • <b>Quant C++</b> • <b>MQL5</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
 
 </td>
 <td width="35%" align="right">
 
-<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="65" />
-
-<img src="https://img.shields.io/badge/MetaTrader%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="38" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mql5&perline=3" height="65" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Algorithmic%20Trading-111827?style=for-the-badge&logo=tradingview&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/META%20TRADER%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="32" />
 
 </td>
 </tr>
