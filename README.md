@@ -82,7 +82,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### ⚡ Programming Languages
+###  Programming Languages
 
 <b>Python</b> • <b>C++</b> • <b>Java</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>HTML5</b> • <b>CSS3</b> • <b>MQL5</b>
 
@@ -97,7 +97,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 🧠 AI / Machine Learning
+###  AI / Machine Learning
 
 <b>PyTorch</b> • <b>TensorFlow</b> • <b>Scikit-Learn</b> • <b>NumPy</b> • <b>Pandas</b> • <b>Jupyter</b>
 
@@ -112,7 +112,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 📈 Quantitative Finance & Trading
+###  Quantitative Finance & Trading
 
 <b>Quant Python</b> • <b>Quant C++</b> • <b>MQL5</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
 
@@ -131,7 +131,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 🔌 Backend / APIs
+###  Backend / APIs
 
 <b>FastAPI</b> • <b>Flask</b> • <b>Node.js</b> • <b>REST API</b>
 
@@ -146,7 +146,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 🗄️ Databases
+###  Databases
 
 <b>PostgreSQL</b> • <b>MySQL</b> • <b>SQLite</b> • <b>MongoDB</b>
 
@@ -161,7 +161,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 🛠️ Development & DevOps
+###  Development & DevOps
 
 <b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>Linux</b> • <b>GitHub Actions</b>
 
@@ -176,7 +176,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 
 <b>AWS</b> • <b>Google Cloud</b> • <b>Vercel</b>
 
@@ -191,7 +191,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 🎨 Frontend
+###  Frontend
 
 <b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b>
 
@@ -206,7 +206,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 🧩 Productivity & Knowledge Systems
+###  Productivity & Knowledge Systems
 
 <b>Notion</b> • <b>Obsidian</b> • <b>VS Code</b>
 
@@ -221,7 +221,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-### 🤖 Automation & Systems
+###  Automation & Systems
 
 <b>n8n</b> • <b>Zapier</b>
 
@@ -237,11 +237,6 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </table>
 
 </div>
-
----
-
-
----
 
 ---
 
