@@ -258,7 +258,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <br /><br />
 
-<table width="20%">
+<table width="100%">
 <tr>
 <td align="center">
 <b> Financial Intelligence</b>
@@ -302,7 +302,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <br /><br />
 
-<table width="20%">
+<table width="100%">
 <tr>
 <td align="center">
 <b> Quantitative Analysis</b>
@@ -315,7 +315,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </tr>
 <tr>
 <td align="center">
-<b>🔬 Research & First Principles</b>
+<b> Research & First Principles</b>
 </td>
 </tr>
 <tr>
@@ -342,11 +342,6 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <img src="https://img.shields.io/badge/SYSTEMS-→-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PRODUCTS-→-FF5722?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SCALE-∞-111111?style=for-the-badge" />
-
-<br /><br />
-
-<sub><b> RESEARCH → INTELLIGENCE → SYSTEMS → PRODUCTS → SCALE</b></sub>
-
 </div>
 
 ---
