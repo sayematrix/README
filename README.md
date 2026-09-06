@@ -112,17 +112,23 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <tr>
 <td width="65%" align="left">
 
-###  Quantitative Finance & Trading
+### Quantitative Finance & Trading
 
-<b>Quant Python</b> • <b>Quant C++</b> • <b>MQL5</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
+<b>Quant Python</b> • <b>Quant C++</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
 
 </td>
 <td width="35%" align="right">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mql5&perline=3" height="65" />
+<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="65" />
 
-<img src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png" height="55" />
 <br />
+
+<img 
+  src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png"
+  height="55"
+  style="border-radius:50%;"
+/>
+
 </td>
 </tr>
 
