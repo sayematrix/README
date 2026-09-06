@@ -16,7 +16,7 @@ AI  ×  Quant Finance  ×  FinTech  ×  Algorithmic Trading  ×  Software  ×  D
 
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│  SYSTEMS ENGINE & VENTURE ARCHITECTURE                                       │
+│               SYSTEMS ENGINE & VENTURE ARCHITECTURE                          │
 ├──────────────────────────────────────────────────────────────────────────────┤
 │                                                                              │
 │   [ DEEP RESEARCH ]   ───>   [ SYSTEMATIC ENGINES ]   ───>   [ VENTURES ]    │
