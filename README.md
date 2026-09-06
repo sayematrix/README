@@ -120,6 +120,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="65" />
+<img src="https://skillicons.dev/icons?i=python,cpp,mt5&perline=6" height="65" />
 
 <br />
 
