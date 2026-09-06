@@ -75,21 +75,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ---
 
-### ⚡ Core Focus & Capabilities
-
-| Domain | Focus Area | Core Stack & Methodologies |
-| :--- | :--- | :--- |
-| **Quant Finance** | Primary Direction | Systematic Trading • Statistical Arbitrage • Risk Frameworks • Execution Engines |
-| **Artificial Intelligence** | Intelligence & Automation | Machine Learning • Predictive Data Streams • Financial Intelligence • Autonomous Workflows |
-| **Financial Technology** | Infrastructure | Real-time Market Data • Execution Protocols • Quantitative Analytics • FinTech APIs |
-| **Systems Architecture** | Core Engineering | High-Reliability Backends • Distributed Computing • Low-Latency Systems • OS Tooling |
-
----
-
-### 🛠️ Languages & Infrastructure
-
-#### Core Programming & Scripting
-
+### 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
@@ -97,18 +83,16 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
-
-#### Web & Frontend
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### Trading & Quant Systems
-
 <p align="center">
   <img src="https://img.shields.io/badge/MQL5-0093D0?style=flat-square&logo=metatrader&logoColor=white" alt="MQL5" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
 ---
