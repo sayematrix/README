@@ -86,21 +86,6 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ---
 
-### 📊 Activity & Telemetry
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9" alt="Sayem's GitHub Stats" height="150" />
-<img src="https://streak-stats.demolab.com?user=sayem&theme=tokyonight&hide_border=true&background=0d1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" alt="Sayem's Streak Stats" height="150" />
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&text_color=c9d1d9" alt="Top Languages" height="140" />
-
-</div>
-
----
-
 ### 🛠️ Languages & Infrastructure
 
 <p align="center">
