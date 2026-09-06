@@ -61,7 +61,7 @@
       <b>🏛️ Enterprise Scale</b>
       <p align="left">
         <sub>
-        • SANR Corporation Limited<br />
+        • QYNTIQ <br />
         • Venture Architecture & Commercial Growth<br />
         • Proprietary Capital Compounding<br />
         • Institutional FinTech Infrastructure
