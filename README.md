@@ -78,57 +78,168 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <div align="center">
 
-#### ⚡ Programming Languages
+<table width="100%">
+<tr>
+<td width="65%" align="left">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css&perline=4" height="72" />
+### ⚡ Programming Languages
 
-<img src="https://skillicons.dev/icons?i=mql5&perline=1" height="72" />
+<b>Python</b> • <b>C++</b> • <b>Java</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>HTML5</b> • <b>CSS3</b> • <b>MQL5</b>
 
-#### 🧠 AI / Machine Learning
+</td>
+<td width="35%" align="right">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=3" height="72" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,mql5&perline=8" height="65" />
 
-#### 📈 Quantitative Finance & Trading
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,mql5&perline=3" height="72" />
+<tr>
+<td width="65%" align="left">
+
+### 🧠 AI / Machine Learning
+
+<b>PyTorch</b> • <b>TensorFlow</b> • <b>Scikit-Learn</b> • <b>NumPy</b> • <b>Pandas</b> • <b>Jupyter</b>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=6" height="65" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### 📈 Quantitative Finance & Trading
+
+<b>Quant Python</b> • <b>Quant C++</b> • <b>MQL5</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,mql5&perline=3" height="65" />
 
 <br />
 
-<img src="https://img.shields.io/badge/METATRADER%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/ALGORITHMIC%20TRADING-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/META%20TRADER%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="32" />
 
-#### 🔌 Backend / APIs
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="72" />
+<tr>
+<td width="65%" align="left">
 
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="38" />
+### 🔌 Backend / APIs
 
-#### 🗄️ Databases
+<b>FastAPI</b> • <b>Flask</b> • <b>Node.js</b> • <b>REST API</b>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="72" />
+</td>
+<td width="35%" align="right">
 
-#### 🛠️ Development & DevOps
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="65" />
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=4" height="72" />
+</td>
+</tr>
 
-#### ☁️ Cloud & Infrastructure
+<tr>
+<td width="65%" align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="72" />
+### 🗄️ Databases
 
-#### 🎨 Frontend
+<b>PostgreSQL</b> • <b>MySQL</b> • <b>SQLite</b> • <b>MongoDB</b>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="72" />
+</td>
+<td width="35%" align="right">
 
-#### 🧩 Productivity & Knowledge Systems
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="65" />
 
-<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="72" />
+</td>
+</tr>
 
-#### 🤖 Automation & Systems
+<tr>
+<td width="65%" align="left">
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="38" />
-<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="38" />
+### 🛠️ Development & DevOps
+
+<b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>Linux</b> • <b>GitHub Actions</b>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=5" height="65" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### ☁️ Cloud & Infrastructure
+
+<b>AWS</b> • <b>Google Cloud</b> • <b>Vercel</b>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="65" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### 🎨 Frontend
+
+<b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="65" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### 🧩 Productivity & Knowledge Systems
+
+<b>Notion</b> • <b>Obsidian</b> • <b>VS Code</b>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="65" />
+
+</td>
+</tr>
+
+<tr>
+<td width="65%" align="left">
+
+### 🤖 Automation & Systems
+
+<b>n8n</b> • <b>Zapier</b>
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="35" />
+
+</td>
+</tr>
+
+</table>
 
 </div>
+
+---
+
 
 ---
 
