@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+SANR+Corporation;Architecting+the+SAYEMATRIX+Ecosystem;Turning+deep+first-principles+research+into+ventures)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="#-flagship-initiatives"><img src="https://img.shields.io/badge/FOUNDATION-SANR%20Corporation-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="SANR Corp" /></a>
-  <a href="#-flagship-initiatives"><img src="https://img.shields.io/badge/ECOSYSTEM-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" /></a>
+  <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/FOUNDATION-SANR%20Corporation-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="SANR Corp" /></a>
+  <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/ECOSYSTEM-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" /></a>
   <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/FOCUS-Quant%20Trading-0969DA?style=for-the-badge&logo=tradingview&logoColor=white" alt="Quant Model" /></a>
   <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Systems" /></a>
 </p>
