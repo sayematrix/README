@@ -119,6 +119,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </td>
 <td width="35%" align="right">
 <img src="https://skillicons.dev/icons?i=python,cpp,mt5&perline=6" height="65" />
+<img src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png" height="55" />
 </td>
 </tr>
 
