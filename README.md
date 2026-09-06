@@ -95,7 +95,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="70" alt="Notion" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" height="120" alt="Notion" />
 </p>
 
 ---
