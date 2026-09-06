@@ -122,8 +122,8 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <img
   src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png"
   width="55"
-  height="55"
-  style="border-radius:50%; object-fit:cover;"
+  height="65"
+  style="border-radius:80%; object-fit:cover;"
   alt="MetaTrader 5"
 />
 </td>
