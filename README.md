@@ -99,9 +99,6 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </p>
 
 ---
-
-### 📬 Connect & Collaborate
-
 <table>
   <tr>
     <td width="50%" valign="top">
