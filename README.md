@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/FOUNDATION-SANR%20Corporation-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="SANR Corp" /></a>
-  <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/ECOSYSTEM-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" /></a>
+  <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/CREATOR & BUILDER-SAYEMATRIX-FF5722?style=for-the-badge&logo=electron&logoColor=white" alt="SAYEMATRIX" /></a>
   <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/FOCUS-Quant%20Finance-0969DA?style=for-the-badge&logo=tradingview&logoColor=white" alt="Quant Finance" /></a>
   <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Systems" /></a>
 </p>
