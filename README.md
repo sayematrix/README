@@ -77,77 +77,130 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ### 💻 Tech Stack
 
-####  Programming Languages
+<div align="center">
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![MQL5](https://img.shields.io/badge/MQL5-0093D0?style=flat-square&logo=metatrader&logoColor=white)](https://www.mql5.com/)
+#### ⚡ Programming Languages
 
-#### AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css&perline=4" height="80" />
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+<br /><br />
 
-####  Quantitative Finance & Trading
+<img src="https://skillicons.dev/icons?i=mql5&perline=1" height="80" />
 
-[![MetaTrader 5](https://img.shields.io/badge/MetaTrader%205-0093D0?style=flat-square&logo=metatrader&logoColor=white)](https://www.metatrader5.com/)
-[![Python](https://img.shields.io/badge/Quant%20Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/Quant%20C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![MQL5](https://img.shields.io/badge/Algorithmic%20Trading-0093D0?style=flat-square&logo=metatrader&logoColor=white)](https://www.mql5.com/)
+<br /><br />
 
-####  Backend / APIs
+---
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white)](https://restfulapi.net/)
+#### 🧠 AI / Machine Learning
 
-####  Databases
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=3" height="80" />
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+<br /><br />
 
-####  Development & DevOps
+---
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+#### 📈 Quantitative Finance & Trading
 
-####  Cloud & Infrastructure
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" height="80" />
+<br />
+<b>Quant Python</b>
+</td>
 
-[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" height="80" />
+<br />
+<b>Quant C++</b>
+</td>
 
-####  Frontend
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mql5" height="80" />
+<br />
+<b>MQL5</b>
+</td>
+</tr>
+</table>
 
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+<br />
 
-####  Productivity & Knowledge Systems
+<img src="https://img.shields.io/badge/METATRADER%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="40" />
+<img src="https://img.shields.io/badge/ALGORITHMIC%20TRADING-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="40" />
 
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
-[![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)](https://obsidian.md/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<br /><br />
 
-####  Automation & Systems
+---
 
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)](https://n8n.io/)
-[![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)](https://zapier.com/)
+#### 🔌 Backend / APIs
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="80" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="40" />
+
+<br /><br />
+
+---
+
+#### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="80" />
+
+<br /><br />
+
+---
+
+#### 🛠️ Development & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=4" height="80" />
+
+<br /><br />
+
+---
+
+#### ☁️ Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="80" />
+
+<br /><br />
+
+---
+
+#### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="80" />
+
+<br /><br />
+
+---
+
+#### 🧩 Productivity & Knowledge Systems
+
+<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="80" />
+
+<br /><br />
+
+---
+
+#### 🤖 Automation & Systems
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="45" />
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="45" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ---
 
