@@ -249,10 +249,10 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <div align="center">
 
-<table width="100%">
+<table width="20%">
 <tr>
 
-<td width="100%" align="center" valign="top">
+<td width="5%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/PRIMARY%20FOCUS-00D26A?style=for-the-badge&logo=target&logoColor=white" />
 
