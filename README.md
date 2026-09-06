@@ -121,17 +121,12 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <img src="https://skillicons.dev/icons?i=python,cpp,mt5&perline=6" height="65" />
 
-<img src="https://img.shields.io/badge/Quant Python-EA4B71?style=for-the-badge&logo=Quant Python&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
-
 <br />
 
 <img 
   src="https://xelansmarkets.com/assets/imgs/software/mt5-logo.png"
   height="55"
-  style="border-radius:50%;"
+  style="border-radius:80%;"
 />
 
 </td>
