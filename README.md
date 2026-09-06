@@ -249,16 +249,16 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <div align="center">
 
-<table width="20%">
+<table width="100%">
 <tr>
 
-<td width="5%" align="center" valign="top">
+<td width="48%" align="center" valign="top">
 
 <img src="https://img.shields.io/badge/PRIMARY%20FOCUS-00D26A?style=for-the-badge&logo=target&logoColor=white" />
 
 <br /><br />
 
-<table width="100%">
+<table width="20%">
 <tr>
 <td align="center">
 <b> Financial Intelligence</b>
@@ -302,7 +302,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <br /><br />
 
-<table width="100%">
+<table width="20%">
 <tr>
 <td align="center">
 <b> Quantitative Analysis</b>
