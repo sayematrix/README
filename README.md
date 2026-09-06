@@ -22,7 +22,7 @@
 
 ---
 
-### ⚡ Systems Architecture & Engine Flow
+### 𝐒𝐘𝐒𝐓𝐄𝐌𝐒 𝐀𝐑𝐂𝐇𝐈𝐓𝐄𝐂𝐓𝐔𝐑𝐄 & 𝐄𝐍𝐆𝐈𝐍𝐄 𝐅𝐋𝐎𝐖
 
 <table width="100%">
   <tr>
@@ -30,7 +30,7 @@
       <br />
       <img src="https://img.shields.io/badge/PHASE%2001-ALPHA%20RESEARCH-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Alpha Research" />
       <br /><br />
-      <b>🔬 Deep Quant Research</b>
+      <b> Deep Quant Research</b>
       <p align="left">
         <sub>
         • Statistical Arbitrage & Microstructure<br />
@@ -44,7 +44,7 @@
       <br />
       <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20ENGINES-0969DA?style=for-the-badge&logo=speedtest&logoColor=white" alt="System Engines" />
       <br /><br />
-      <b>⚡ Systematic Execution</b>
+      <b> Systematic Execution</b>
       <p align="left">
         <sub>
         • Deterministic Algorithmic Trading<br />
@@ -58,7 +58,7 @@
       <br />
       <img src="https://img.shields.io/badge/PHASE%2003-SCALE%20%26%20HOLDING-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Scale and Holding" />
       <br /><br />
-      <b>🏛️ Enterprise Scale</b>
+      <b> Enterprise Scale</b>
       <p align="left">
         <sub>
         • QYNTIQ <br />
@@ -74,7 +74,7 @@
 I operate at the intersection of **quantitative finance**, **applied artificial intelligence**, and **systems engineering**. My work is driven by first principles: deconstructing complex financial and computational mechanics, engineering resilient architectures, and translating proven algorithms into enduring enterprises.
 
 ---
-### 💻 Tech Stack
+### 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 <div align="center">
 
