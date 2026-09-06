@@ -123,7 +123,8 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <br />
 
-<img src="https://img.shields.io/badge/META%20TRADER%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="32" />
+<img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="65" />
+
 
 </td>
 </tr>
