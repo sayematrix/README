@@ -22,43 +22,63 @@
 
 ---
 
-### 🌐 The Architecture
+### ⚡ Systems Architecture & Engine Flow
 
-```
-AI  ×  Quant Finance  ×  FinTech  ×  Algorithmic Trading  ×  Software  ×  Data  ×  Systems
-```
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2001-ALPHA%20RESEARCH-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Alpha Research" />
+      <br /><br />
+      <b>🔬 Deep Quant Research</b>
+      <p align="left">
+        <sub>
+        • Statistical Arbitrage & Microstructure<br />
+        • Non-linear Predictive Alpha Models<br />
+        • Market Dynamics & Factor Backtesting<br />
+        • Applied AI & Machine Learning Signals
+        </sub>
+      </p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20ENGINES-0969DA?style=for-the-badge&logo=speedtest&logoColor=white" alt="System Engines" />
+      <br /><br />
+      <b>⚡ Systematic Execution</b>
+      <p align="left">
+        <sub>
+        • Deterministic Algorithmic Trading<br />
+        • Ultra Low-Latency Order Routing<br />
+        • Autonomous High-Throughput Streams<br />
+        • Real-Time Risk & Drawdown Frameworks
+        </sub>
+      </p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2003-SCALE%20%26%20HOLDING-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Scale and Holding" />
+      <br /><br />
+      <b>🏛️ Enterprise Scale</b>
+      <p align="left">
+        <sub>
+        • SANR Corporation Limited<br />
+        • Venture Architecture & Commercial Growth<br />
+        • Proprietary Capital Compounding<br />
+        • Institutional FinTech Infrastructure
+        </sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 🔀 Systems Architecture Graph
-
-```mermaid
-flowchart LR
-    subgraph R["🔬 01. DEEP RESEARCH"]
-        direction TB
-        R1["Quantitative Models"]
-        R2["Market Microstructure"]
-        R3["Applied AI & Signals"]
-    end
-
-    subgraph E["⚡ 02. SYSTEMATIC ENGINES"]
-        direction TB
-        E1["Algorithmic Trading"]
-        E2["Low-Latency Routing"]
-        E3["Autonomous Pipelines"]
-    end
-
-    subgraph S["🏛️ 03. ENTERPRISE SCALE"]
-        direction TB
-        S1["SANR Corporation"]
-        S2["Strategic Capital"]
-        S3["FinTech Platforms"]
-    end
-
-    R ==>|Alpha Flow| E
-    E ==>|Compounding| S
-
-    style R fill:#0d1117,stroke:#00D26A,stroke-width:2px,color:#fff
-    style E fill:#0d1117,stroke:#0969DA,stroke-width:2px,color:#fff
-    style S fill:#0d1117,stroke:#8A2BE2,stroke-width:2px,color:#fff
+```zsh
+╭─ sayem@sayematrix:~/systems ─────────────────────────────────────────────────────────────╮
+│  [CORE_ENGINE]   SAYEMATRIX v2.8 (Alpha Modeling & High-Throughput Execution Lab)        │
+│  [HOLDING_CORP]  SANR Corporation Limited [Venture Architecture & Capital Allocation]    │
+│  [ARCHITECTURE]  Deep Research  ──▶  Systematic Trading  ──▶  Enterprise Scale           │
+│  [DOMAINS]       Quant Finance  ×  Applied AI  ×  FinTech  ×  Low-Latency Infrastructure │
+│  [STATUS]        ● LIVE  •  ALL SYSTEMS OPTIMAL  •  UPTIME: 99.99%                       │
+╰──────────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 I operate at the intersection of **quantitative finance**, **applied artificial intelligence**, and **systems engineering**. My work is driven by first principles: deconstructing complex financial and computational mechanics, engineering resilient architectures, and translating proven algorithms into enduring enterprises.
@@ -111,8 +131,8 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9" alt="sayem's GitHub Stats" height="150" />
-<img src="https://streak-stats.demolab.com?user=sayem&theme=tokyonight&hide_border=true&background=0d1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" alt="sayem's Streak Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=sayem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d26a&icon_color=00d26a&text_color=c9d1d9" alt="Sayem's GitHub Stats" height="150" />
+<img src="https://streak-stats.demolab.com?user=sayem&theme=tokyonight&hide_border=true&background=0d1117&ring=00d26a&fire=00d26a&currStreakLabel=00d26a" alt="Sayem's Streak Stats" height="150" />
 
 <br />
 
