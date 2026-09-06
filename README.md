@@ -1,10 +1,3 @@
-Yes — বুঝেছি। তুমি **একটা complete, single-piece GitHub Profile README** চাচ্ছো, যেটা সরাসরি `README.md`-তে বসাতে পারবে। এটা **learning/knowledge system নয়**; এটা হবে **professional GitHub identity + engineering portfolio + projects + current builds**। GitHub নিজেও profile README-কে work, contributions, skills ও projects showcase করার জায়গা হিসেবে position করে। ([GitHub Docs][1])
-
-নিচেরটা তোমার current positioning অনুযায়ী আমি **cleaner + stronger + more credible** করে একসাথে সাজালাম।
-
-> **Note:** `YOUR_USERNAME`, project links, social links এবং যেসব project এখনো বাস্তবে নেই সেগুলো replace/remove করবে।
-
-````md
 <!-- =========================
      SAYEMATRIX — GITHUB PROFILE
      ========================= -->
@@ -181,55 +174,6 @@ Infrastructure
 
 </tr>
 </table>
-
----
-
-# 🏗️ Engineering Workflow
-
-```text
-                    ┌─────────────────────┐
-                    │     MARKET DATA     │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   DATA ENGINEERING  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ QUANTITATIVE RESEARCH│
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   MODEL DEVELOPMENT │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ BACKTEST & VALIDATE  │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   RISK MANAGEMENT   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ EXECUTION & AUTOMATION│
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ MONITORING & ANALYTICS│
-                    └─────────────────────┘
-````
-
-**Research → Engineer → Automate → Deploy → Scale**
-
----
 
 # 🛠️ Tech Stack
 
