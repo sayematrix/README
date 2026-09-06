@@ -74,129 +74,59 @@
 I operate at the intersection of **quantitative finance**, **applied artificial intelligence**, and **systems engineering**. My work is driven by first principles: deconstructing complex financial and computational mechanics, engineering resilient architectures, and translating proven algorithms into enduring enterprises.
 
 ---
-
 ### 💻 Tech Stack
 
 <div align="center">
 
 #### ⚡ Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css&perline=4" height="80" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css&perline=4" height="72" />
 
-<br /><br />
-
-<img src="https://skillicons.dev/icons?i=mql5&perline=1" height="80" />
-
-<br /><br />
-
----
+<img src="https://skillicons.dev/icons?i=mql5&perline=1" height="72" />
 
 #### 🧠 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=3" height="80" />
-
-<br /><br />
-
----
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=3" height="72" />
 
 #### 📈 Quantitative Finance & Trading
 
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" height="80" />
-<br />
-<b>Quant Python</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" height="80" />
-<br />
-<b>Quant C++</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mql5" height="80" />
-<br />
-<b>MQL5</b>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,cpp,mql5&perline=3" height="72" />
 
 <br />
 
-<img src="https://img.shields.io/badge/METATRADER%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="40" />
-<img src="https://img.shields.io/badge/ALGORITHMIC%20TRADING-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="40" />
-
-<br /><br />
-
----
+<img src="https://img.shields.io/badge/METATRADER%205-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/ALGORITHMIC%20TRADING-0093D0?style=for-the-badge&logo=metatrader&logoColor=white" height="38" />
 
 #### 🔌 Backend / APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="80" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="72" />
 
-<br /><br />
-
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="40" />
-
-<br /><br />
-
----
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" height="38" />
 
 #### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="80" />
-
-<br /><br />
-
----
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="72" />
 
 #### 🛠️ Development & DevOps
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=4" height="80" />
-
-<br /><br />
-
----
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=4" height="72" />
 
 #### ☁️ Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="80" />
-
-<br /><br />
-
----
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="72" />
 
 #### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="80" />
-
-<br /><br />
-
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="72" />
 
 #### 🧩 Productivity & Knowledge Systems
 
-<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="80" />
-
-<br /><br />
-
----
+<img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="72" />
 
 #### 🤖 Automation & Systems
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="45" />
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="45" />
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="38" />
+<img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="38" />
 
 </div>
 
