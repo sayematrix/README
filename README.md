@@ -161,12 +161,56 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ### 📬 Connect & Collaborate
 
-<p align="center">
-  <a href="https://sayematrix.com"><img src="https://img.shields.io/badge/Web-sayematrix.com-00D26A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://linkedin.com/in/sayem"><img src="https://img.shields.io/badge/LinkedIn-Sayem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/sayem"><img src="https://img.shields.io/badge/X-@sayem-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:contact@sanrcorp.com"><img src="https://img.shields.io/badge/Email-contact@sanrcorp.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>✉️ Email</h4>
+      <p><code>sayem.professional@gmail.com</code></p>
+      <p><em>For professional inquiries and opportunities.</em></p>
+      <p>
+        <a href="mailto:sayem.professional@gmail.com">
+          <img src="https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 LinkedIn</h4>
+      <p><code>linkedin.com/in/sayematrix</code></p>
+      <p><em>For professional networking and industry connections.</em></p>
+      <p>
+        <a href="https://linkedin.com/in/sayematrix">
+          <img src="https://img.shields.io/badge/Connect%20→-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐙 GitHub</h4>
+      <p><code>github.com/sayematrix</code></p>
+      <p><em>For technical projects, systems, and experiments.</em></p>
+      <p>
+        <a href="https://github.com/sayematrix">
+          <img src="https://img.shields.io/badge/View%20Code%20→-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ SAYEMATRIX</h4>
+      <p><code>Instagram & YouTube — @sayematrix</code></p>
+      <p><em>For my digital work, ideas, content, and ecosystem.</em></p>
+      <p>
+        <a href="https://instagram.com/sayematrix">
+          <img src="https://img.shields.io/badge/Instagram%20→-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+        &nbsp;
+        <a href="https://youtube.com/@sayematrix">
+          <img src="https://img.shields.io/badge/YouTube%20→-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
