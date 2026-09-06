@@ -243,6 +243,8 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </div>
 
 ---
+<!-- ==================== CORE FOCUS ==================== -->
+
 ### 𝐂𝐎𝐑𝐄 𝐅𝐎𝐂𝐔𝐒 & 𝐂𝐀𝐏𝐀𝐁𝐈𝐋𝐈𝐓𝐈𝐄𝐒
 
 <div align="center">
@@ -250,51 +252,83 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <table width="100%">
 <tr>
 
-<td width="30%" align="right" valign="middle">
+<td width="48%" align="center" valign="top">
 
-<b>SUPPORTING</b><br />
-<sub>
-Quantitative Analysis<br />
-Digital Systems<br />
-Research & First Principles<br />
-Software Engineering<br />
-Systems Architecture
-</sub>
-
-</td>
-
-<td width="10%" align="center" valign="middle">
-
-<b>╲</b><br />
-<b>│</b><br />
-<b>╱</b>
-
-</td>
-
-<td width="40%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/CORE%20FOCUS-00D26A?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/PRIMARY%20FOCUS-00D26A?style=for-the-badge&logo=target&logoColor=white" />
 
 <br /><br />
 
-<b>Financial Intelligence</b><br />
-<b>Artificial Intelligence</b><br />
-<b>Automation & Intelligent Systems</b><br />
-<b>FinTech & Financial Technology</b><br />
-<b>Data & Analytics</b><br />
-<b>Product Development</b>
+<table width="100%">
+<tr>
+<td align="center">
+<b> Financial Intelligence</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> Artificial Intelligence</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> Automation & Intelligent Systems</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> FinTech & Financial Technology</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> Data & Analytics</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> Product Development</b>
+</td>
+</tr>
+</table>
 
 </td>
 
-<td width="20%" align="left" valign="middle">
+<td width="4%" align="center">
+</td>
 
-<b>BUILD</b><br />
-↓<br />
-<b>SYSTEMS</b><br />
-↓<br />
-<b>PRODUCTS</b><br />
-↓<br />
-<b>SCALE</b>
+<td width="48%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/SUPPORTING%20EXPERTISE-0969DA?style=for-the-badge&logo=stackshare&logoColor=white" />
+
+<br /><br />
+
+<table width="100%">
+<tr>
+<td align="center">
+<b> Quantitative Analysis</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> Digital Systems</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>🔬 Research & First Principles</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> Software Engineering</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b> Systems Architecture</b>
+</td>
+</tr>
+</table>
 
 </td>
 
@@ -303,14 +337,19 @@ Systems Architecture
 
 <br />
 
-<sub>
-<b>⚡ RESEARCH → INTELLIGENCE → SYSTEMS → PRODUCTS → SCALE</b>
-</sub>
+<img src="https://img.shields.io/badge/RESEARCH-→-00D26A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INTELLIGENCE-→-0969DA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEMS-→-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PRODUCTS-→-FF5722?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SCALE-∞-111111?style=for-the-badge" />
+
+<br /><br />
+
+<sub><b> RESEARCH → INTELLIGENCE → SYSTEMS → PRODUCTS → SCALE</b></sub>
 
 </div>
 
 ---
-
 ---
 
 <!-- Footer Wave -->
