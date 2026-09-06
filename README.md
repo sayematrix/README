@@ -1,107 +1,136 @@
-<div align="center">
+# 👋 I'm Sayem
 
-# Sayem
-
-### Entrepreneur &bull; Investor &bull; Developer &bull; OS Builder &bull; Creator
-
-```
-AI  ×  Quant Finance  ×  FinTech  ×  Algorithmic Trading  ×  Software  ×  Data  ×  Systems
-```
-
-*I learn, research, build, and turn ideas into systems, products, and businesses.*
-
-<br />
-
-</div>
-
-```
-                    ┌──────────────────────────────────────────────────────────────────────────────┐
-                    │                  SYSTEMS ENGINE & VENTURE ARCHITECTURE                       │
-                    ├──────────────────────────────────────────────────────────────────────────────┤
-                    │                                                                              │
-                    │   [ DEEP RESEARCH ]   ───>   [ SYSTEMATIC ENGINES ]   ───>   [ VENTURES ]    │
-                    │   • Quantitative Models      • Algorithmic Trading           • SANR Corp     │
-                    │   • Financial Mechanics      • Data & Stream Pipelines       • SAYEMATRIX    │
-                    │   • Applied AI & Logic       • Autonomous Systems            • Production    │
-                    │                                                                              │
-                    └──────────────────────────────────────────────────────────────────────────────┘
-```
+**Entrepreneur • Investor • Developer • OS Builder • Creator**  
+*Quant Finance × AI × FinTech × Algorithmic Trading × Software × Data × Systems*
 
 ---
 
-### &bull; About
+## 🎯 Core Focus
 
-I operate at the intersection of **quantitative finance**, **artificial intelligence**, **systems engineering**, and **financial technology**.
+I build intelligent systems where **finance**, **AI**, and **software** converge.
 
-My work is driven by first principles: breaking down complex financial and computational problems, designing resilient mathematical and software architectures, and translating verified ideas into enduring systems, products, and enterprises.
-
----
-
-### &bull; Primary Pillars
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏛️ SANR Corporation Limited</h3>
-      <em>The Long-Term Venture Foundation</em>
-      <br /><br />
-      The corporate umbrella and capital vehicle for future companies, strategic investments, technology platforms, and long-term business initiatives.
-      <br /><br />
-      <ul>
-        <li>Strategic enterprise development</li>
-        <li>Capital allocation & venture building</li>
-        <li>Institutional FinTech & commercialization</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ SAYEMATRIX</h3>
-      <em>Personal Digital Ecosystem & Lab</em>
-      <br /><br />
-      An open digital ecosystem designed for continuous learning, technical research, experimental prototyping, systems engineering, and knowledge distribution.
-      <br /><br />
-      <ul>
-        <li>Quantitative research & trading experiments</li>
-        <li>AI automation workflows & tools</li>
-        <li>System architecture & OS development</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Financial Intelligence**  
+- **Artificial Intelligence**  
+- **Automation**  
+- **FinTech**  
+- **Data & Analytics**  
+- **Product Development**  
 
 ---
 
-### &bull; Core Focus & Capabilities
+## 🏗️ What I'm Building
 
-| Domain | Focus Area | Core Competencies |
-| :--- | :--- | :--- |
-| **Quant Finance** | Primary Professional Direction | Systematic / Algorithmic Trading &bull; Statistical Modeling &bull; Risk Frameworks &bull; Execution Systems |
-| **Intelligence** | AI & Automation | Machine Learning &bull; Intelligent Workflows &bull; Financial Intelligence &bull; Autonomous Pipelines |
-| **FinTech** | Products & Infrastructure | Modern Financial Technologies &bull; Quantitative Analysis &bull; Market Mechanics &bull; Real-time APIs |
-| **Engineering** | Software & Architecture | Distributed Systems &bull; High-Reliability Software &bull; Data Analytics &bull; Developer Tooling |
+I turn complex ideas into **scalable systems** and **intelligent products**.
 
----
+My work spans:
 
-### &bull; Current Work & Active Research
+- Quantitative models and algorithmic trading systems  
+- AI-driven tools for finance and decision-making  
+- Data platforms, automation, and product infrastructure  
 
-- **Systematic & Algorithmic Trading:** Designing quantitative models, backtesting engines, execution logic, and automated risk controls.
-- **Financial Intelligence:** Synthesizing data pipelines, AI models, and real-time market data to uncover actionable alpha.
-- **Autonomous Digital Systems:** Engineering resilient software architectures, background services, and deterministic automation.
-- **Foundational OS Tooling:** Developing tools and environments that accelerate research and rapid product iteration.
+I combine **research**, **engineering**, and **entrepreneurship** to create long-term value.
 
 ---
 
-### &bull; Connect
+## 🏛️ SANR Corporation Limited
 
-```
-[ Web ]       https://sayematrix.com        (placeholder)
-[ Corporate ] https://sanrcorp.com          (placeholder)
-[ LinkedIn ]  https://linkedin.com/in/sayem (placeholder)
-[ X/Twitter ] https://x.com/sayem           (placeholder)
-[ Contact ]   contact@sanrcorp.com          (placeholder)
-```
+**Founder**
 
-<br />
+SANR Corporation Limited is my long-term venture for:
 
-<div align="center">
-  <sub>Engineered for depth, clarity, and precision.</sub>
-</div>
+- Building businesses and technology initiatives  
+- Making strategic investments  
+- Launching future ventures across finance, tech, and innovation  
+
+---
+
+## ⚡ SAYEMATRIX
+
+**Creator & Builder**
+
+SAYEMATRIX is my personal digital ecosystem:
+
+- Learning and researching  
+- Building and creating  
+- Experimenting and sharing knowledge  
+
+It's the operating system behind my projects, ideas, and experiments.
+
+---
+
+## 🚀 QYNTIQ
+
+**Building**
+
+QYNTIQ is where **AI**, **quantitative finance**, and **FinTech** meet to create intelligent software for:
+
+- Markets and trading  
+- Data and analytics  
+- Automated decision systems  
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages & Core
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+### Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Data, AI & Quant
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Dev & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🔬 Current Interests
+
+- Algorithmic trading systems and execution frameworks  
+- AI-driven financial models and signal generation  
+- Real-time data infrastructure and analytics  
+- Product strategy for FinTech and quant platforms  
+- Systematic approaches to learning, research, and building  
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace SAYEM with your actual GitHub username -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAYEM&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAYEM&layout=compact&theme=radical&hide_border=true)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/api?username=SAYEM&theme=react&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_WEBSITE.com)
+
+---
+
+<p align="center">
+  Building the infrastructure for intelligent finance.
+</p>
