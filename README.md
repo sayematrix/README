@@ -75,37 +75,6 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ---
 
-### 🚀 Flagship Initiatives
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🏛️ SANR Corporation Limited</h3>
-      <p><em>Founder & Executive Direction</em></p>
-      <p>The long-term enterprise holding vehicle for future technology platforms, proprietary trading entities, strategic capital allocation, and commercial ventures.</p>
-      <ul>
-        <li><strong>Venture Architecture:</strong> Capital structuring & commercial expansion</li>
-        <li><strong>FinTech Platforms:</strong> Institutional-grade market technology</li>
-        <li><strong>Enterprise Governance:</strong> Strategic direction & operational scale</li>
-      </ul>
-      <p>🔗 <code>sanrcorp.com</code> <em>(holding platform)</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">⚡ SAYEMATRIX</h3>
-      <p><em>Personal Digital Ecosystem & Laboratory</em></p>
-      <p>An open digital ecosystem designed for continuous learning, systematic research, high-frequency prototyping, OS design, and knowledge synthesis.</p>
-      <ul>
-        <li><strong>Quantitative Lab:</strong> Algorithmic models & execution systems</li>
-        <li><strong>AI Automation:</strong> Autonomous stream intelligence & pipelines</li>
-        <li><strong>OS & Tooling:</strong> Custom environments for accelerated iteration</li>
-      </ul>
-      <p>🔗 <code>sayematrix.com</code> <em>(digital ecosystem)</em></p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### ⚡ Core Focus & Capabilities
 
 | Domain | Focus Area | Core Stack & Methodologies |
