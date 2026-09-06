@@ -77,41 +77,12 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ### ⚡ Core Focus & Capabilities
 
-#### 1️⃣ Quantitative Finance
-
-**Primary Direction**
-
-- Systematic & algorithmic trading  
-- Statistical arbitrage & factor models  
-- Risk frameworks & portfolio construction  
-- Execution engines & market microstructure  
-
-#### 2️⃣ Artificial Intelligence
-
-**Intelligence & Automation**
-
-- Machine learning for financial signals  
-- Predictive data streams & feature engineering  
-- Financial intelligence layers  
-- Autonomous workflows & decision systems  
-
-#### 3️⃣ Financial Technology
-
-**Infrastructure & Products**
-
-- Real-time market data pipelines  
-- Execution protocols & trading APIs  
-- Quantitative analytics & research tooling  
-- FinTech infrastructure for scalable products  
-
-#### 4️⃣ Systems Architecture
-
-**Core Engineering**
-
-- High-reliability backend systems  
-- Distributed & low-latency computing  
-- OS-level tooling for research & iteration  
-- Robust, production-grade architectures  
+| Domain | Focus Area | Core Stack & Methodologies |
+| :--- | :--- | :--- |
+| **Quant Finance** | Primary Direction | Systematic Trading • Statistical Arbitrage • Risk Frameworks • Execution Engines |
+| **Artificial Intelligence** | Intelligence & Automation | Machine Learning • Predictive Data Streams • Financial Intelligence • Autonomous Workflows |
+| **Financial Technology** | Infrastructure | Real-time Market Data • Execution Protocols • Quantitative Analytics • FinTech APIs |
+| **Systems Architecture** | Core Engineering | High-Reliability Backends • Distributed Computing • Low-Latency Systems • OS Tooling |
 
 ---
 
