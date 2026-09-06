@@ -1,27 +1,34 @@
-# 👋 Hi, I'm Sayem
+# 👋 I'm Sayem
 
-**Entrepreneur • Investor • Developer • OS Builder • Creator**
-
+**Entrepreneur • Investor • Developer • OS Builder • Creator**  
 *Quant Finance × AI × FinTech × Algorithmic Trading × Software × Data × Systems*
 
 ---
 
 ## 🎯 Core Focus
 
-- **Financial Intelligence**
-- **Artificial Intelligence**
-- **Automation**
-- **FinTech**
-- **Data & Analytics**
-- **Product Development**
+I build intelligent systems where **finance**, **AI**, and **software** converge.
+
+- **Financial Intelligence**  
+- **Artificial Intelligence**  
+- **Automation**  
+- **FinTech**  
+- **Data & Analytics**  
+- **Product Development**  
 
 ---
 
 ## 🏗️ What I'm Building
 
-I work at the intersection of **quantitative finance**, **artificial intelligence**, and **software engineering** to create intelligent systems that learn, adapt, and scale.
+I turn complex ideas into **scalable systems** and **intelligent products**.
 
-My approach blends **research**, **engineering**, and **entrepreneurship** to turn ideas into products, products into businesses, and businesses into long-term value.
+My work spans:
+
+- Quantitative models and algorithmic trading systems  
+- AI-driven tools for finance and decision-making  
+- Data platforms, automation, and product infrastructure  
+
+I combine **research**, **engineering**, and **entrepreneurship** to create long-term value.
 
 ---
 
@@ -29,11 +36,11 @@ My approach blends **research**, **engineering**, and **entrepreneurship** to tu
 
 **Founder**
 
-SANR Corporation Limited is my long-term business venture focused on:
+SANR Corporation Limited is my long-term venture for:
 
 - Building businesses and technology initiatives  
 - Making strategic investments  
-- Creating future ventures across finance, tech, and innovation  
+- Launching future ventures across finance, tech, and innovation  
 
 ---
 
@@ -41,13 +48,13 @@ SANR Corporation Limited is my long-term business venture focused on:
 
 **Creator & Builder**
 
-SAYEMATRIX is my personal digital ecosystem for:
+SAYEMATRIX is my personal digital ecosystem:
 
 - Learning and researching  
 - Building and creating  
 - Experimenting and sharing knowledge  
 
-It's where ideas, systems, and projects come together under one umbrella.
+It's the operating system behind my projects, ideas, and experiments.
 
 ---
 
@@ -55,7 +62,11 @@ It's where ideas, systems, and projects come together under one umbrella.
 
 **Building**
 
-QYNTIQ is a technology company where **AI**, **quantitative finance**, and **FinTech** converge to build intelligent software solutions for markets, data, and decision-making.
+QYNTIQ is where **AI**, **quantitative finance**, and **FinTech** meet to create intelligent software for:
+
+- Markets and trading  
+- Data and analytics  
+- Automated decision systems  
 
 ---
 
@@ -93,15 +104,15 @@ QYNTIQ is a technology company where **AI**, **quantitative finance**, and **Fin
 
 - Algorithmic trading systems and execution frameworks  
 - AI-driven financial models and signal generation  
-- Data infrastructure for real-time analytics  
-- Product thinking for FinTech and quant platforms  
+- Real-time data infrastructure and analytics  
+- Product strategy for FinTech and quant platforms  
 - Systematic approaches to learning, research, and building  
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Replace SAYEM with your actual GitHub username in the URLs below -->
+<!-- Replace SAYEM with your actual GitHub username -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAYEM&show_icons=true&theme=radical&hide_border=true)
 
@@ -121,5 +132,5 @@ QYNTIQ is a technology company where **AI**, **quantitative finance**, and **Fin
 ---
 
 <p align="center">
-  Building systems that think, trade, and scale.
+  Building the infrastructure for intelligent finance.
 </p>
