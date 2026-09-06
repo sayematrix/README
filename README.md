@@ -124,7 +124,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <br />
 
 <img 
-  src="[https://xelansmarkets.com/assets/imgs/software/mt5-logo.png](https://play-lh.googleusercontent.com/89EiemIbsSIhGfFRDgmUgaMkAEBluQVxMFQyHroEGD6CC3nL3__IKduLGLby4fKH8dg)" height="55" style="border-radius:80%;" />
+  src="[[https://xelansmarkets.com/assets/imgs/software/mt5-logo.png](https://play-lh.googleusercontent.com/89EiemIbsSIhGfFRDgmUgaMkAEBluQVxMFQyHroEGD6CC3nL3__IKduLGLby4fKH8dg)](https://play.google.com/store/apps/dev?id=6482947269324760172)" height="55" style="border-radius:80%;" />
 
 </td>
 </tr>
