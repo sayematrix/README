@@ -242,67 +242,55 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </div>
 
 ---
-<!-- ==================== COMMUNICATION ==================== -->
-
-### 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍
-
 <div align="center">
 <br /><br />
 <table width="100%">
 <tr>
 <td align="center" width="16.66%">
 <a href="mailto:sayem.professional@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
 <sub>Professional</sub>
 </td>
-
 <td align="center" width="16.66%">
 <a href="https://www.linkedin.com/in/sayematrix/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br />
 <sub>Networking</sub>
 </td>
-
 <td align="center" width="16.66%">
 <a href="https://github.com/sayematrix">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
 <sub>Engineering</sub>
 </td>
-
 <td align="center" width="16.66%">
 <a href="https://x.com/sayematrix">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <br />
 <sub>Thoughts</sub>
 </td>
-
 <td align="center" width="16.66%">
 <a href="https://instagram.com/sayematrix">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <br />
 <sub>Digital Work</sub>
 </td>
-
 <td align="center" width="16.66%">
 <a href="https://youtube.com/@sayematrix">
-<img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <br />
 <sub>Content</sub>
 </td>
-
 </tr>
 </table>
-
 <br />
-
 </div>
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
