@@ -248,6 +248,10 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <div align="center">
 
+<sub>
+PROFESSIONAL INQUIRIES • COLLABORATION • NETWORKING • IDEAS
+</sub>
+
 <br /><br />
 
 <table width="100%">
@@ -263,12 +267,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="https://www.linkedin.com/in/sayematrix/">
-<img src="./assets/icons/linkedin.svg"
-     width="32"
-     height="32"
-     alt="LinkedIn" />
-<br />
-<b>LinkedIn</b>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <br />
 <sub>Networking</sub>
@@ -309,8 +308,27 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </tr>
 </table>
 
+<br />
+
+<sub>
+<a href="mailto:sayem.professional@gmail.com">
+<b>sayem.professional@gmail.com</b>
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/sayematrix">
+<b>@sayematrix</b>
+</a>
+</sub>
+
+<br /><br />
+
+<a href="mailto:sayem.professional@gmail.com">
+<img src="https://img.shields.io/badge/OPEN%20A%20CONVERSATION-00D26A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
+
+---
 
 ---
 
