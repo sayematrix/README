@@ -242,81 +242,44 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </div>
 
 ---
-<!-- ==================== DIRECT COMMUNICATION CHANNELS ==================== -->
+<!-- ==================== DIRECT COMMUNICATION ==================== -->
 
 ### 𝐃𝐈𝐑𝐄𝐂𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
 
 <div align="center">
 
-<h2>LET’S BUILD SOMETHING MEANINGFUL.</h2>
-
-<p>
-Interested in <b>technology</b>, <b>financial systems</b>, <b>research</b>,
-<b>automation</b>, or <b>long-term ventures</b>?
-<br />
-Connect directly through one of the primary channels below.
-</p>
+<b>LET’S BUILD SOMETHING MEANINGFUL.</b>
 
 <br />
+
+<sub>
+Technology • Financial Systems • Research • Automation • Long-Term Ventures
+</sub>
+
+<br /><br />
 
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-<img
-src="https://img.shields.io/badge/EMAIL-PROFESSIONAL%20CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-/>
-
-<br /><br />
-
-<b>sayem.professional@gmail.com</b>
-
-<br /><br />
-
-<sub>
-Professional inquiries, collaborations,<br />
-business opportunities, and direct communication.
-</sub>
-
-<br /><br />
-
+<b>EMAIL</b><br />
+<sub>sayem.professional@gmail.com</sub>
+<br />
 <a href="mailto:sayem.professional@gmail.com">
-<img
-src="https://img.shields.io/badge/SEND%20EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
-/>
+<img src="https://img.shields.io/badge/SEND%20EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
 </a>
-
-<br /><br />
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-<img
-src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL%20NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-/>
-
-<br /><br />
-
-<b>linkedin.com/in/sayematrix</b>
-
-<br /><br />
-
-<sub>
-Professional networking, industry connections,<br />
-collaborations, and strategic opportunities.
-</sub>
-
-<br /><br />
-
+<b>LINKEDIN</b><br />
+<sub>linkedin.com/in/sayematrix</sub>
+<br />
 <a href="https://www.linkedin.com/in/sayematrix/">
-<img
-src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-/>
+<img src="https://img.shields.io/badge/CONNECT-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
 </a>
-
-<br /><br />
 
 </td>
 
@@ -324,69 +287,29 @@ src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logo=linked
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-<img
-src="https://img.shields.io/badge/GITHUB-ENGINEERING%20%26%20SYSTEMS-181717?style=for-the-badge&logo=github&logoColor=white"
-/>
-
-<br /><br />
-
-<b>github.com/sayematrix</b>
-
-<br /><br />
-
-<sub>
-Technical projects, quantitative systems,<br />
-software engineering, research, and experiments.
-</sub>
-
-<br /><br />
-
+<b>GITHUB</b><br />
+<sub>github.com/sayematrix</sub>
+<br />
 <a href="https://github.com/sayematrix">
-<img
-src="https://img.shields.io/badge/VIEW%20CODE-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"
-/>
+<img src="https://img.shields.io/badge/VIEW%20CODE-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
 </a>
-
-<br /><br />
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-<img
-src="https://img.shields.io/badge/SAYEMATRIX-DIGITAL%20ECOSYSTEM-8A2BE2?style=for-the-badge&logo=electron&logoColor=white"
-/>
-
-<br /><br />
-
-<b>Instagram & YouTube — @sayematrix</b>
-
-<br /><br />
-
-<sub>
-Digital work, ideas, content, systems,<br />
-projects, and the wider SAYEMATRIX ecosystem.
-</sub>
-
-<br /><br />
-
+<b>SAYEMATRIX</b><br />
+<sub>Instagram & YouTube — @sayematrix</sub>
+<br />
 <a href="https://instagram.com/sayematrix">
-<img
-src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
-/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" />
 </a>
-
 &nbsp;
-
 <a href="https://youtube.com/@sayematrix">
-<img
-src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000"
-/>
+<img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=flat-square&logo=youtube&logoColor=FF0000" />
 </a>
-
-<br /><br />
 
 </td>
 
@@ -395,17 +318,11 @@ src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtub
 
 <br />
 
-<img
-src="https://img.shields.io/badge/DIRECT%20ACCESS-EMAIL%20%E2%80%A2%20LINKEDIN%20%E2%80%A2%20GITHUB%20%E2%80%A2%20SAYEMATRIX-0D1117?style=for-the-badge&labelColor=00D26A"
-/>
-
-<br /><br />
-
-<sub>
-<b>Direct messages and professional inquiries are routed through the SAYEM personal communication system.</b>
-</sub>
+<sub><b>Direct communication • Professional inquiries • Collaboration</b></sub>
 
 </div>
+
+---
 
 ---
 <!-- Footer Wave -->
