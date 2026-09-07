@@ -243,6 +243,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ---
 <!-- ==================== DIRECT COMMUNICATION ==================== -->
+<!-- ==================== DIRECT COMMUNICATION ==================== -->
 
 ### 𝐃𝐈𝐑𝐄𝐂𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
 
@@ -259,36 +260,52 @@ Technology • Financial Systems • Research • Automation • Long-Term Ventu
 <table width="100%">
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <a href="mailto:sayem.professional@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00D26A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
-<sub>sayem.professional@gmail.com</sub>
+<sub>Professional</sub>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <a href="https://www.linkedin.com/in/sayematrix/">
 <img src="https://img.shields.io/badge/LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br />
-<sub>linkedin.com/in/sayematrix</sub>
+<sub>Networking</sub>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 <a href="https://github.com/sayematrix">
 <img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <br />
-<sub>github.com/sayematrix</sub>
+<sub>Engineering</sub>
 </td>
 
-<td align="center" width="25%">
-<a href="https://instagram.com/sayematrix">
-<img src="https://img.shields.io/badge/SAYEMATRIX-FF5722?style=for-the-badge&logo=instagram&logoColor=white" />
+<td align="center" width="16.66%">
+<a href="https://x.com/sayematrix">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 <br />
-<sub>Instagram • YouTube</sub>
+<sub>Thoughts</sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://instagram.com/sayematrix">
+<img src="https://img.shields.io/badge/INSTAGRAM-FF5722?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<br />
+<sub>Digital Work</sub>
+</td>
+
+<td align="center" width="16.66%">
+<a href="https://youtube.com/@sayematrix">
+<img src="https://img.shields.io/badge/YOUTUBE-EA4335?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<br />
+<sub>Content</sub>
 </td>
 
 </tr>
