@@ -248,9 +248,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <div align="center">
 
-<b>LET’S BUILD SOMETHING MEANINGFUL.</b>
-
-<br />
+<h3>LET’S BUILD SOMETHING MEANINGFUL.</h3>
 
 <sub>
 Technology • Financial Systems • Research • Automation • Long-Term Ventures
@@ -261,56 +259,36 @@ Technology • Financial Systems • Research • Automation • Long-Term Ventu
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
-
-<b>EMAIL</b><br />
-<sub>sayem.professional@gmail.com</sub>
-<br />
+<td align="center" width="25%">
 <a href="mailto:sayem.professional@gmail.com">
-<img src="https://img.shields.io/badge/SEND%20EMAIL-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/EMAIL-00D26A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<br />
+<sub>sayem.professional@gmail.com</sub>
 </td>
 
-<td width="50%" align="center">
-
-<b>LINKEDIN</b><br />
-<sub>linkedin.com/in/sayematrix</sub>
-<br />
+<td align="center" width="25%">
 <a href="https://www.linkedin.com/in/sayematrix/">
-<img src="https://img.shields.io/badge/CONNECT-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+<br />
+<sub>linkedin.com/in/sayematrix</sub>
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<b>GITHUB</b><br />
-<sub>github.com/sayematrix</sub>
-<br />
+<td align="center" width="25%">
 <a href="https://github.com/sayematrix">
-<img src="https://img.shields.io/badge/VIEW%20CODE-0D1117?style=flat-square&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+<br />
+<sub>github.com/sayematrix</sub>
 </td>
 
-<td width="50%" align="center">
-
-<b>SAYEMATRIX</b><br />
-<sub>Instagram & YouTube — @sayematrix</sub>
-<br />
+<td align="center" width="25%">
 <a href="https://instagram.com/sayematrix">
-<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=flat-square&logo=instagram&logoColor=E4405F" />
+<img src="https://img.shields.io/badge/SAYEMATRIX-FF5722?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://youtube.com/@sayematrix">
-<img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=flat-square&logo=youtube&logoColor=FF0000" />
-</a>
-
+<br />
+<sub>Instagram • YouTube</sub>
 </td>
 
 </tr>
@@ -318,12 +296,19 @@ Technology • Financial Systems • Research • Automation • Long-Term Ventu
 
 <br />
 
-<sub><b>Direct communication • Professional inquiries • Collaboration</b></sub>
+<sub>
+<b>Direct communication</b> · <b>Professional inquiries</b> · <b>Collaboration</b> · <b>Opportunities</b>
+</sub>
+
+<br /><br />
+
+<a href="mailto:sayem.professional@gmail.com">
+<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-0D1117?style=for-the-badge&logoColor=white" />
+</a>
 
 </div>
 
 ---
-
 ---
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
