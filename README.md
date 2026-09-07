@@ -240,6 +240,5 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </table>
 
 </div>
----
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
