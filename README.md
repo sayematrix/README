@@ -263,7 +263,12 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="https://www.linkedin.com/in/sayematrix/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="./assets/icons/linkedin.svg"
+     width="32"
+     height="32"
+     alt="LinkedIn" />
+<br />
+<b>LinkedIn</b>
 </a>
 <br />
 <sub>Networking</sub>
