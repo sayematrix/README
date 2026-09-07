@@ -228,6 +228,8 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
 <img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="35" />
+<img src="https://img.shields.io/badge/MAKE-FF4A00?style=for-the-badge&logo=make&logoColor=white" height="35" />
+
 
 </td>
 </tr>
