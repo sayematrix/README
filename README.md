@@ -246,81 +246,50 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 ### 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍
 <div align="center">
 <br /><br />
-<table width="100%" cellspacing="10">
+<table width="100%">
 <tr>
-
 <td align="center" width="16.66%">
-<table style="border: 2px solid #EA4335; border-radius: 10px;" cellpadding="12">
-<tr><td align="center">
 <a href="mailto:sayem.professional@gmail.com">
 <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
 </a>
 <br />
 <sub>Professional</sub>
-</td></tr>
-</table>
 </td>
-
 <td align="center" width="16.66%">
-<table style="border: 2px solid #0077B5; border-radius: 10px;" cellpadding="12">
-<tr><td align="center">
 <a href="https://www.linkedin.com/in/sayematrix/">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <br />
 <sub>Networking</sub>
-</td></tr>
-</table>
 </td>
-
 <td align="center" width="16.66%">
-<table style="border: 2px solid #FFFFFF; border-radius: 10px;" cellpadding="12">
-<tr><td align="center">
 <a href="https://github.com/sayematrix">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
 <br />
 <sub>Engineering</sub>
-</td></tr>
-</table>
 </td>
-
 <td align="center" width="16.66%">
-<table style="border: 2px solid #FFFFFF; border-radius: 10px;" cellpadding="12">
-<tr><td align="center">
 <a href="https://x.com/sayematrix">
 <img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
 </a>
 <br />
 <sub>Thoughts</sub>
-</td></tr>
-</table>
 </td>
-
 <td align="center" width="16.66%">
-<table style="border: 2px solid #E4405F; border-radius: 10px;" cellpadding="12">
-<tr><td align="center">
 <a href="https://instagram.com/sayematrix">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 <br />
 <sub>Digital Work</sub>
-</td></tr>
-</table>
 </td>
-
 <td align="center" width="16.66%">
-<table style="border: 2px solid #FF0000; border-radius: 10px;" cellpadding="12">
-<tr><td align="center">
 <a href="https://youtube.com/@sayematrix">
 <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
 </a>
 <br />
 <sub>Content</sub>
-</td></tr>
-</table>
 </td>
-
 </tr>
 </table>
 <br />
