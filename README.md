@@ -307,15 +307,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <br />
 
-<br /><br />
-
-<a href="mailto:sayem.professional@gmail.com">
-<img src="https://img.shields.io/badge/START%20A%20CONVERSATION-0D1117?style=for-the-badge&logoColor=white" />
-</a>
-
 </div>
-
----
 ---
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
