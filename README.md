@@ -242,9 +242,9 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </div>
 
 ---
-<!-- ==================== DIRECT COMMUNICATION ==================== -->
+<!-- ==================== COMMUNICATION ==================== -->
 
-###  𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
+### 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍
 
 <div align="center">
 
@@ -255,7 +255,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="mailto:sayem.professional@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00D26A?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 <br />
 <sub>Professional</sub>
@@ -263,7 +263,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="https://www.linkedin.com/in/sayematrix/">
-<img src="https://img.shields.io/badge/LINKEDIN-0969DA?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 <br />
 <sub>Networking</sub>
@@ -271,7 +271,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="https://github.com/sayematrix">
-<img src="https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 <br />
 <sub>Engineering</sub>
@@ -279,7 +279,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="https://x.com/sayematrix">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" />
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" />
 </a>
 <br />
 <sub>Thoughts</sub>
@@ -287,7 +287,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="https://instagram.com/sayematrix">
-<img src="https://img.shields.io/badge/INSTAGRAM-FF5722?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 <br />
 <sub>Digital Work</sub>
@@ -295,7 +295,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <td align="center" width="16.66%">
 <a href="https://youtube.com/@sayematrix">
-<img src="https://img.shields.io/badge/YOUTUBE-EA4335?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YOUTUBE-0D1117?style=for-the-badge&logo=youtube&logoColor=FF0000" />
 </a>
 <br />
 <sub>Content</sub>
@@ -304,9 +304,10 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </tr>
 </table>
 
-<br />
 
 </div>
+
+---
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
