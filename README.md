@@ -221,7 +221,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ###  Automation & Systems
 
-<b>n8n</b> • <b>Zapier</b>
+<b>n8n</b> • <b>Zapier</b> • <b>Make</b>
 
 </td>
 <td width="35%" align="right">
