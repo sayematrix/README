@@ -245,15 +245,9 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <!-- ==================== DIRECT COMMUNICATION ==================== -->
 <!-- ==================== DIRECT COMMUNICATION ==================== -->
 
-### 𝐃𝐈𝐑𝐄𝐂𝐓 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
+###  𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋𝐒
 
 <div align="center">
-
-<h3>LET’S BUILD SOMETHING MEANINGFUL.</h3>
-
-<sub>
-Technology • Financial Systems • Research • Automation • Long-Term Ventures
-</sub>
 
 <br /><br />
 
@@ -312,10 +306,6 @@ Technology • Financial Systems • Research • Automation • Long-Term Ventu
 </table>
 
 <br />
-
-<sub>
-<b>Direct communication</b> · <b>Professional inquiries</b> · <b>Collaboration</b> · <b>Opportunities</b>
-</sub>
 
 <br /><br />
 
