@@ -245,8 +245,9 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <!-- ==================== COMMUNICATION ==================== -->
 ### 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍
 <div align="center">
-<br /><br />
-<table width="100%">
+<br />
+
+<table width="100%" style="border: 2px solid #30363D; border-radius: 12px; padding: 20px; background-color: #0D1117;">
 <tr>
 <td align="center" width="16.66%">
 <a href="mailto:sayem.professional@gmail.com">
@@ -292,6 +293,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </td>
 </tr>
 </table>
+
 <br />
 </div>
 <!-- Footer Wave -->
