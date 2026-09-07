@@ -242,17 +242,88 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </div>
 
 ---
-<table align="center">
-<tr><td>
-
-<table width="100%">
+<!-- ==================== COMMUNICATION ==================== -->
+### 𝐂𝐎𝐌𝐌𝐔𝐍𝐈𝐂𝐀𝐓𝐈𝐎𝐍
+<div align="center">
+<br /><br />
+<table width="100%" cellspacing="10">
 <tr>
-<td align="center"><a href="mailto:..."><img src="..." /></a><br /><sub>Professional</sub></td>
-...
-</tr>
-</table>
 
+<td align="center" width="16.66%">
+<table>
+<tr><td align="center">
+<a href="mailto:sayem.professional@gmail.com">
+<img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+</a>
+<br />
+<sub>Professional</sub>
 </td></tr>
 </table>
+</td>
+
+<td align="center" width="16.66%">
+<table>
+<tr><td align="center">
+<a href="https://www.linkedin.com/in/sayematrix/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<br />
+<sub>Networking</sub>
+</td></tr>
+</table>
+</td>
+
+<td align="center" width="16.66%">
+<table>
+<tr><td align="center">
+<a href="https://github.com/sayematrix">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+</a>
+<br />
+<sub>Engineering</sub>
+</td></tr>
+</table>
+</td>
+
+<td align="center" width="16.66%">
+<table>
+<tr><td align="center">
+<a href="https://x.com/sayematrix">
+<img src="https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white" />
+</a>
+<br />
+<sub>Thoughts</sub>
+</td></tr>
+</table>
+</td>
+
+<td align="center" width="16.66%">
+<table>
+<tr><td align="center">
+<a href="https://instagram.com/sayematrix">
+<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+<br />
+<sub>Digital Work</sub>
+</td></tr>
+</table>
+</td>
+
+<td align="center" width="16.66%">
+<table>
+<tr><td align="center">
+<a href="https://youtube.com/@sayematrix">
+<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" />
+</a>
+<br />
+<sub>Content</sub>
+</td></tr>
+</table>
+</td>
+
+</tr>
+</table>
+<br />
+</div>
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
