@@ -23,43 +23,43 @@
   <tr>
     <td width="33.3%" align="center" valign="top">
       <br />
-      <img src="https://img.shields.io/badge/PHASE%2001-ALPHA%20RESEARCH-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Alpha Research" />
+      <img src="https://img.shields.io/badge/PHASE%2001-INTELLIGENCE%20LAB-00D26A?style=for-the-badge&logo=jupyter&logoColor=white" alt="Intelligence Lab" />
       <br /><br />
-      <b> Deep Quant Research</b>
+      <b>Deep Intelligence Research</b>
       <p align="left">
         <sub>
-        • Statistical Arbitrage & Microstructure<br />
-        • Non-linear Predictive Alpha Models<br />
-        • Market Dynamics & Factor Backtesting<br />
-        • Applied AI & Machine Learning Signals
+        • Statistical & Data Research<br />
+        • Predictive Intelligence & Pattern Discovery<br />
+        • System Dynamics & Factor Analysis<br />
+        • Applied AI & Machine Learning Models
         </sub>
       </p>
     </td>
     <td width="33.3%" align="center" valign="top">
       <br />
-      <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20ENGINES-0969DA?style=for-the-badge&logo=speedtest&logoColor=white" alt="System Engines" />
+      <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
       <br /><br />
-      <b> Systematic Execution</b>
+      <b>Intelligent Systems Engineering</b>
       <p align="left">
         <sub>
-        • Deterministic Algorithmic Trading<br />
-        • Ultra Low-Latency Order Routing<br />
-        • Autonomous High-Throughput Streams<br />
-        • Real-Time Risk & Drawdown Frameworks
+        • Algorithmic Decision Systems<br />
+        • High-Performance Data Processing<br />
+        • Autonomous System Workflows<br />
+        • Real-Time Risk & Reliability Frameworks
         </sub>
       </p>
     </td>
     <td width="33.3%" align="center" valign="top">
       <br />
-      <img src="https://img.shields.io/badge/PHASE%2003-SCALE%20%26%20HOLDING-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Scale and Holding" />
+      <img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
       <br /><br />
-      <b> Enterprise Scale</b>
+      <b>Scale & Infrastructure</b>
       <p align="left">
         <sub>
-        • QYNTIQ <br />
-        • Venture Architecture & Commercial Growth<br />
-        • Proprietary Capital Compounding<br />
-        • Institutional FinTech Infrastructure
+        • QYNTIQ<br />
+        • Technology Ventures & Commercial Growth<br />
+        • Proprietary Systems & Asset Development<br />
+        • Digital Infrastructure & Platform Architecture
         </sub>
       </p>
     </td>
