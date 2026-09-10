@@ -8,8 +8,6 @@
 <tr>
 <td width="65%" align="left">
 
-<b>Research & Publication Platforms</b>
-
 </td>
 <td width="35%" align="right">
 
