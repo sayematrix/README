@@ -13,14 +13,6 @@
 </td>
 <td width="35%" align="right">
 
-<a href="https://github.com/sayematrix">
-<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
-</a>
-
-<a href="https://zenodo.org/">
-<img src="https://img.shields.io/badge/Zenodo-sayematrix-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" height="35" />
-</a>
-
 </td>
 </tr>
 </table>
