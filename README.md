@@ -242,50 +242,44 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 <div align="center">
 
-<a href="https://github.com/sayematrix">
-<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://zenodo.org/">
 <img src="https://img.shields.io/badge/Zenodo-sayematrix-1682D4?style=for-the-badge&logo=zenodo&logoColor=white" />
 </a>
+
+<a href="https://github.com/sayematrix">
+<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <a href="https://www.ssrn.com/">
 <img src="https://img.shields.io/badge/SSRN-sayematrix-154734?style=for-the-badge&logoColor=white" />
 </a>
+
 <a href="https://osf.io/">
 <img src="https://img.shields.io/badge/OSF-sayematrix-2D6CDF?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://osf.io/preprints/">
-<img src="https://img.shields.io/badge/OSF%20Preprints-sayematrix-2D6CDF?style=for-the-badge&logoColor=white" />
-</a>
+
 <a href="https://arxiv.org/">
 <img src="https://img.shields.io/badge/arXiv-sayematrix-B31B1B?style=for-the-badge&logoColor=white" />
 </a>
+
+<a href="https://orcid.org/">
+<img src="https://img.shields.io/badge/ORCID-sayematrix-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+</a>
+
 <a href="https://www.researchsquare.com/">
 <img src="https://img.shields.io/badge/Research%20Square-sayematrix-2E7D32?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://www.preprints.org/">
-<img src="https://img.shields.io/badge/Preprints.org-sayematrix-1E88E5?style=for-the-badge&logoColor=white" />
+
+<a href="https://sciprofiles.com/">
+<img src="https://img.shields.io/badge/SciProfiles-sayematrix-1565C0?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://osf.io/preprints/socarxiv/">
-<img src="https://img.shields.io/badge/SocArXiv-sayematrix-4A148C?style=for-the-badge&logoColor=white" />
-</a>
+
 <a href="https://www.researchgate.net/profile/sayematrix">
 <img src="https://img.shields.io/badge/ResearchGate-sayematrix-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
 </a>
-<a href="https://www.academia.edu/sayematrix">
-<img src="https://img.shields.io/badge/Academia.edu-sayematrix-414141?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.econstor.eu/">
-<img src="https://img.shields.io/badge/EconStor-sayematrix-005A9C?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://figshare.com/">
-<img src="https://img.shields.io/badge/Figshare-sayematrix-1F77B4?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://ideas.repec.org/">
-<img src="https://img.shields.io/badge/RePEc%20%2F%20IDEAS-sayematrix-8B0000?style=for-the-badge&logoColor=white" />
-</a>
-<a href="#">
-<img src="https://img.shields.io/badge/Institutional%20Repository-sayematrix-607D8B?style=for-the-badge&logoColor=white" />
+
+<a href="https://scholar.google.com/">
+<img src="https://img.shields.io/badge/Google%20Scholar-sayematrix-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>
 
 </div>
