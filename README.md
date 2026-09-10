@@ -236,6 +236,129 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 </table>
 
+---
+
+### 𝐏𝐀𝐏𝐄𝐑 • 𝐀𝐑𝐓𝐈𝐂𝐋𝐄 • 𝐓𝐑𝐀𝐃𝐈𝐍𝐆
+
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/01-PAPER%20%26%20RESEARCH-00D26A?style=for-the-badge&logo=academia&logoColor=white" alt="Paper and Research" />
+      <br /><br />
+      <b>Research Publication System</b>
+      <p align="left">
+        <sub>
+        • Quantitative Finance Research<br />
+        • Financial Econometrics<br />
+        • Volatility & Risk Research<br />
+        • Reproducible Data Analysis<br />
+        • Working Papers & Preprints<br />
+        • Research Code & Data Archives
+        </sub>
+      </p>
+      <p>
+        <a href="https://github.com/sayematrix">GitHub</a> •
+        <a href="https://zenodo.org/">Zenodo</a> •
+        <a href="https://osf.io/">OSF</a><br />
+        <a href="https://osf.io/preprints/">OSF Preprints</a> •
+        <a href="https://www.ssrn.com/">SSRN</a><br />
+        <a href="https://arxiv.org/">arXiv</a> •
+        <a href="https://www.researchgate.net/profile/sayematrix">ResearchGate</a><br />
+        <a href="https://www.academia.edu/sayematrix">Academia.edu</a> •
+        <a href="https://www.econstor.eu/">EconStor</a><br />
+        <a href="https://figshare.com/">Figshare</a> •
+        <a href="https://ideas.repec.org/">RePEc / IDEAS</a><br />
+        Institutional Repository • Journal Submission
+      </p>
+    </td>
+
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/02-ARTICLE%20%26%20MEDIA-FF5722?style=for-the-badge&logo=medium&logoColor=white" alt="Article and Media" />
+      <br /><br />
+      <b>Public Knowledge & Media System</b>
+      <p align="left">
+        <sub>
+        • Research Explainers<br />
+        • Financial Education<br />
+        • AI & Technology Writing<br />
+        • Trading Psychology<br />
+        • Educational Tutorials<br />
+        • Newsletter & Community Content
+        </sub>
+      </p>
+      <p>
+        <a href="https://medium.com/@sayematrix">Medium</a> •
+        <a href="https://sayematrix.substack.com/">Substack</a><br />
+        <a href="https://www.linkedin.com/in/sayematrix/">LinkedIn</a> •
+        <a href="https://medium.com/publications">Medium Publications</a><br />
+        <a href="https://towardsdatascience.com/">Towards Data Science</a><br />
+        <a href="https://towardsai.net/">Towards AI</a> •
+        <a href="https://www.kdnuggets.com/">KDnuggets</a><br />
+        <a href="https://www.analyticsvidhya.com/">Analytics Vidhya</a><br />
+        <a href="https://dev.to/sayematrix">DEV</a> •
+        <a href="https://hashnode.com/@sayematrix">Hashnode</a><br />
+        <a href="https://www.quora.com/profile/sayematrix">Quora</a> •
+        <a href="https://www.reddit.com/user/sayematrix/">Reddit</a><br />
+        <a href="https://x.com/sayematrix">X</a> •
+        <a href="https://www.youtube.com/@sayematrix">YouTube</a><br />
+        Research Blog • Newsletter
+      </p>
+    </td>
+
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/03-TRADING%20%26%20QUANT-0969DA?style=for-the-badge&logo=tradingview&logoColor=white" alt="Trading and Quant" />
+      <br /><br />
+      <b>Algorithmic Trading & Quant System</b>
+      <p align="left">
+        <sub>
+        • Systematic Trading Research<br />
+        • Algorithmic Strategy Development<br />
+        • Quantitative Backtesting<br />
+        • Market Structure Analysis<br />
+        • Trading Automation<br />
+        • Strategy Distribution & Execution
+        </sub>
+      </p>
+      <p>
+        <a href="https://www.tradingview.com/u/sayematrix/">TradingView</a> •
+        <a href="https://www.mql5.com/en/users/sayematrix">MQL5</a><br />
+        <a href="https://www.mql5.com/en/market">MQL5 Market</a><br />
+        <a href="https://www.quantconnect.com/">QuantConnect</a> •
+        <a href="https://www.quantrocket.com/">QuantRocket</a><br />
+        <a href="https://ninjatrader.com/">NinjaTrader</a> •
+        <a href="https://ninjatraderecosystem.com/">NinjaTrader Ecosystem</a><br />
+        <a href="https://www.ctrader.com/">cTrader</a> •
+        <a href="https://ctrader.com/store/">cTrader Store</a><br />
+        <a href="https://www.kaggle.com/sayematrix">Kaggle</a> •
+        <a href="https://quantpedia.com/">Quantpedia</a><br />
+        <a href="https://www.freqtrade.io/">Freqtrade</a> •
+        <a href="https://hummingbot.org/">Hummingbot</a><br />
+        <a href="https://www.forexfactory.com/">Forex Factory</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br />
+
+<div align="center">
+
+| 📄 Paper & Research | 📝 Article & Media | 📈 Trading & Quant |
+|:---:|:---:|:---:|
+| Research papers, preprints, code, data, and reproducible analysis | Public writing, explainers, tutorials, newsletters, and educational media | Systematic research, algorithmic strategies, backtesting, and trading systems |
+| **Research → Archive → Citation** | **Research → Explanation → Audience** | **Research → Strategy → Execution** |
+
+</div>
+
+---
+
 </div>
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
