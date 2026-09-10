@@ -334,58 +334,6 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ---
 
-###  𝐐𝐔𝐀𝐍𝐓 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄
-
-<div align="center">
-
-<a href="https://www.tradingview.com/u/sayematrix/">
-<img src="https://img.shields.io/badge/TradingView-sayematrix-131722?style=for-the-badge&logo=tradingview&logoColor=white" />
-</a>
-<a href="https://www.mql5.com/en/users/sayematrix">
-<img src="https://img.shields.io/badge/MQL5-sayematrix-00AEEF?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.mql5.com/en/market">
-<img src="https://img.shields.io/badge/MQL5%20Market-sayematrix-00AEEF?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.quantconnect.com/">
-<img src="https://img.shields.io/badge/QuantConnect-sayematrix-1B1F23?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.quantrocket.com/">
-<img src="https://img.shields.io/badge/QuantRocket-sayematrix-263238?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://ninjatrader.com/">
-<img src="https://img.shields.io/badge/NinjaTrader-sayematrix-0057B8?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://ninjatraderecosystem.com/">
-<img src="https://img.shields.io/badge/NinjaTrader%20Ecosystem-sayematrix-0057B8?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.ctrader.com/">
-<img src="https://img.shields.io/badge/cTrader-sayematrix-1E88E5?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://ctrader.com/store/">
-<img src="https://img.shields.io/badge/cTrader%20Store-sayematrix-1E88E5?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.kaggle.com/sayematrix">
-<img src="https://img.shields.io/badge/Kaggle-sayematrix-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-<a href="https://quantpedia.com/">
-<img src="https://img.shields.io/badge/Quantpedia-sayematrix-6A1B9A?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.freqtrade.io/">
-<img src="https://img.shields.io/badge/Freqtrade-sayematrix-2E7D32?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://hummingbot.org/">
-<img src="https://img.shields.io/badge/Hummingbot-sayematrix-1565C0?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.forexfactory.com/">
-<img src="https://img.shields.io/badge/Forex%20Factory-sayematrix-4CAF50?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://github.com/sayematrix">
-<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
 </div>
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
