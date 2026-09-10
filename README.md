@@ -331,6 +331,9 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 </a>
 
 </div>
+
+---
+
 ###  𝐐𝐔𝐀𝐍𝐓 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄
 
 <div align="center">
