@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=220&section=header&text=SAYEM&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Entrepreneur%20%E2%80%A2%20Investor%20%E2%80%A2%20Developer%20%E2%80%A2%20OS%20Builder%20%E2%80%A2%20Quant&descAlignY=58&descSize=15" width="100%" alt="Sayem Banner" />
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=16\&duration=2800\&pause=900\&color=00D26A\&center=true\&vcenter=true\&width=620\&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+SANR+Corporation;Architecting+the+SAYEMATRIX+Ecosystem;Turning+deep+first-principles+research+into+ventures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00D26A&center=true&vcenter=true&width=620&lines=Quantitative+Finance+%26+Algorithmic+Trading;AI+%C3%97+FinTech+%C3%97+Low-Latency+Systems;Founder+%26+Executive+at+SANR+Corporation;Architecting+the+SAYEMATRIX+Ecosystem;Turning+deep+first-principles+research+into+ventures)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="#-systems-architecture--engine-flow"><img src="https://img.shields.io/badge/CORE IDENTITY-Quant Finance &%20Algorithmic Trading-00D26A?style=for-the-badge&logo=target&logoColor=white" alt="SANR Corp" /></a>
@@ -14,7 +13,6 @@
   <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/FOCUS-Quant%20Finance-0969DA?style=for-the-badge&logo=tradingview&logoColor=white" alt="Quant Finance" /></a>
   <a href="#-core-focus--capabilities"><img src="https://img.shields.io/badge/CORE-AI%20%26%20Systems-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Systems" /></a>
 </p>
-
 </div>
 
 ---
@@ -37,129 +35,52 @@
         </sub>
       </p>
     </td>
-
-```
-<td width="33.3%" align="center" valign="top">
-  <br />
-  <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
-  <br /><br />
-  <b>Intelligent Systems Engineering</b>
-  <p align="left">
-    <sub>
-    • Algorithmic Decision Systems<br />
-    • High-Performance Data Processing<br />
-    • Autonomous System Workflows<br />
-    • Real-Time Risk & Reliability Frameworks
-    </sub>
-  </p>
-</td>
-
-<td width="33.3%" align="center" valign="top">
-  <br />
-  <img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
-  <br /><br />
-  <b>Scale & Infrastructure</b>
-  <p align="left">
-    <sub>
-    • QYNTIQ<br />
-    • Technology Ventures & Commercial Growth<br />
-    • Proprietary Systems & Asset Development<br />
-    • Digital Systems & Platform Development
-    </sub>
-  </p>
-</td>
-```
-
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2002-SYSTEM%20LAB-0969DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="System Lab" />
+      <br /><br />
+      <b>Intelligent Systems Engineering</b>
+      <p align="left">
+        <sub>
+        • Algorithmic Decision Systems<br />
+        • High-Performance Data Processing<br />
+        • Autonomous System Workflows<br />
+        • Real-Time Risk & Reliability Frameworks
+        </sub>
+      </p>
+    </td>
+    <td width="33.3%" align="center" valign="top">
+      <br />
+      <img src="https://img.shields.io/badge/PHASE%2003-VENTURE%20SYSTEMS-8A2BE2?style=for-the-badge&logo=target&logoColor=white" alt="Venture Systems" />
+      <br /><br />
+      <b>Scale & Infrastructure</b>
+      <p align="left">
+        <sub>
+        • QYNTIQ<br />
+        • Technology Ventures & Commercial Growth<br />
+        • Proprietary Systems & Asset Development<br />
+        • Digital Systems & Platform Development
+        </sub>
+      </p>
+    </td>
   </tr>
 </table>
 
 I operate at the intersection of **quantitative finance**, **applied artificial intelligence**, and **systems engineering**. My work is driven by first principles: deconstructing complex financial and computational mechanics, engineering resilient architectures, and translating proven algorithms into enduring enterprises.
-
 ---
-
-### 𝐏𝐔𝐁𝐋𝐈𝐂𝐀𝐓𝐈𝐎𝐍 • 𝐂𝐎𝐍𝐓𝐄𝐍𝐓 • 𝐓𝐑𝐀𝐃𝐈𝐍𝐆
-
-<table width="100%">
-  <tr>
-
-```
-<td width="33.3%" align="center" valign="top">
-  <br />
-  <img src="https://img.shields.io/badge/📄%20PAPER-RESEARCH%20%26%20PUBLICATION-00D26A?style=for-the-badge" alt="Paper" />
-  <br /><br />
-  <b>Quantitative Research & Publication</b>
-  <p align="left">
-    <sub>
-    • Quantitative Finance Research<br />
-    • Empirical Financial Analysis<br />
-    • Algorithmic & Quantitative Trading Research<br />
-    • AI / Machine Learning Research<br />
-    • Reproducible Research & Open Science
-    </sub>
-  </p>
-</td>
-
-<td width="33.3%" align="center" valign="top">
-  <br />
-  <img src="https://img.shields.io/badge/📝%20ARTICLE-KNOWLEDGE%20%26%20INSIGHTS-0969DA?style=for-the-badge" alt="Article" />
-  <br /><br />
-  <b>Writing, Analysis & Knowledge</b>
-  <p align="left">
-    <sub>
-    • Research-to-Article Translation<br />
-    • Financial & Market Insights<br />
-    • AI, Technology & Systems Writing<br />
-    • Quantitative Concepts & Education<br />
-    • Long-form Analysis & Documentation
-    </sub>
-  </p>
-</td>
-
-<td width="33.3%" align="center" valign="top">
-  <br />
-  <img src="https://img.shields.io/badge/📈%20TRADING-QUANT%20%26%20ALGORITHMIC-8A2BE2?style=for-the-badge" alt="Trading" />
-  <br /><br />
-  <b>Quantitative & Algorithmic Trading</b>
-  <p align="left">
-    <sub>
-    • Quantitative Trading Strategies<br />
-    • Algorithmic Trading Systems<br />
-    • Expert Advisors & Trading Automation<br />
-    • Backtesting & Strategy Research<br />
-    • Risk, Execution & Portfolio Systems
-    </sub>
-  </p>
-</td>
-```
-
-  </tr>
-</table>
-
-<div align="center">
-
-**Research → Evidence → Article → Knowledge → Trading System**
-
-I transform **research into evidence, evidence into knowledge, and knowledge into systematic trading and financial technology systems**.
-
-</div>
-
----
-
 ### 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 <div align="center">
 
 <table width="100%">
-
 <tr>
 <td width="65%" align="left">
 
-### Programming Languages
+###  Programming Languages
 
 <b>Python</b> • <b>C++</b> • <b>Java</b> • <b>JavaScript</b> • <b>TypeScript</b> • <b>HTML5</b> • <b>CSS3</b> • <b>MQL5</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,html,css,mql5&perline=8" height="65" />
@@ -170,12 +91,11 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### AI / Machine Learning
+###  AI / Machine Learning
 
 <b>PyTorch</b> • <b>TensorFlow</b> • <b>Scikit-Learn</b> • <b>NumPy</b> • <b>Pandas</b> • <b>Jupyter</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,numpy,pandas,jupyter&perline=6" height="65" />
@@ -186,12 +106,17 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Quantitative Finance & Trading
+<tr>
+<td width="65%" align="left">
+
+<tr>
+<td width="65%" align="left">
+
+###  Quantitative Finance & Trading
 
 <b>Quant Python</b> • <b>Quant C++</b> • <b>MetaTrader 5</b> • <b>Algorithmic Trading</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=python,cpp&perline=2" height="55" />
@@ -203,12 +128,12 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Backend / APIs
+
+###  Backend / APIs
 
 <b>FastAPI</b> • <b>Flask</b> • <b>Node.js</b> • <b>REST API</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=3" height="65" />
@@ -219,12 +144,11 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Databases
+###  Databases
 
 <b>PostgreSQL</b> • <b>MySQL</b> • <b>SQLite</b> • <b>MongoDB</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&perline=4" height="65" />
@@ -235,12 +159,11 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Development & DevOps
+###  Development & DevOps
 
 <b>Git</b> • <b>GitHub</b> • <b>Docker</b> • <b>Linux</b> • <b>GitHub Actions</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,githubactions&perline=5" height="65" />
@@ -251,12 +174,11 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Cloud & Infrastructure
+###  Cloud & Infrastructure
 
 <b>AWS</b> • <b>Google Cloud</b> • <b>Vercel</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel&perline=3" height="65" />
@@ -267,12 +189,11 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Frontend
+###  Frontend
 
 <b>React</b> • <b>Next.js</b> • <b>Tailwind CSS</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&perline=3" height="65" />
@@ -283,12 +204,11 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Productivity & Knowledge Systems
+###  Productivity & Knowledge Systems
 
 <b>Notion</b> • <b>Obsidian</b> • <b>VS Code</b>
 
 </td>
-
 <td width="35%" align="right">
 
 <img src="https://skillicons.dev/icons?i=notion,obsidian,vscode&perline=3" height="65" />
@@ -299,17 +219,33 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 <tr>
 <td width="65%" align="left">
 
-### Automation & Systems
+###  Automation & Systems
 
 <b>n8n</b> • <b>Zapier</b> • <b>Make</b>
 
 </td>
 
+
+𝐏𝐀𝐏𝐄𝐑
+QUANTITATIVE RESEARCH & PUBLICATION
+
+𝐀𝐑𝐓𝐈𝐂𝐋𝐄
+KNOWLEDGE, ANALYSIS & INSIGHTS
+
+𝐓𝐑𝐀𝐃𝐈𝐍𝐆
+QUANTITATIVE & ALGORITHMIC TRADING
+
+𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇 → 𝐊𝐍𝐎𝐖𝐋𝐄𝐃𝐆𝐄 → 𝐒𝐘𝐒𝐓𝐄𝐌𝐒
+Paper → Evidence & Research
+Article → Knowledge & Insights
+Trading → Strategies & Systems
+ 
 <td width="35%" align="right">
 
 <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="35" />
 <img src="https://img.shields.io/badge/ZAPIER-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" height="35" />
 <img src="https://img.shields.io/badge/MAKE-FF4A00?style=for-the-badge&logo=make&logoColor=white" height="35" />
+
 
 </td>
 </tr>
@@ -317,9 +253,5 @@ I transform **research into evidence, evidence into knowledge, and knowledge int
 </table>
 
 </div>
-
----
-
 <!-- Footer Wave -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,14,35&height=100&section=footer" width="100%" alt="Footer Wave" />
