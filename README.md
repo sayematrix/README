@@ -65,7 +65,7 @@
     </td>
   </tr>
 </table>
----
+
 ### 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
 <div align="center">
