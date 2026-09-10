@@ -238,7 +238,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 
 ---
 
-###  𝐏𝐀𝐏𝐄𝐑
+###  𝐑𝐄𝐒𝐄𝐀𝐑𝐂𝐇 𝐏𝐀𝐏𝐄𝐑
 
 <div align="center">
 
