@@ -65,8 +65,6 @@
     </td>
   </tr>
 </table>
-
-I operate at the intersection of **quantitative finance**, **applied artificial intelligence**, and **systems engineering**. My work is driven by first principles: deconstructing complex financial and computational mechanics, engineering resilient architectures, and translating proven algorithms into enduring enterprises.
 ---
 ### 𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊
 
