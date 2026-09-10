@@ -59,7 +59,7 @@
         • QYNTIQ<br />
         • Technology Ventures & Commercial Growth<br />
         • Proprietary Systems & Asset Development<br />
-        • Digital System & Platform Development
+        • Digital Systems & Platform Development
         </sub>
       </p>
     </td>
