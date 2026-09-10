@@ -262,7 +262,7 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <img src="https://img.shields.io/badge/arXiv-sayematrix-B31B1B?style=for-the-badge&logoColor=white" />
 </a>
 
-<a href="https://orcid.org/">
+<a href="https://orcid.org/0009-0000-4502-5605">
 <img src="https://img.shields.io/badge/ORCID-sayematrix-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
 
