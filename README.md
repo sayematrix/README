@@ -4,15 +4,6 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-</td>
-<td width="35%" align="right">
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <div align="center">
