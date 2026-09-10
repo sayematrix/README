@@ -6,8 +6,6 @@
 
 <table width="100%">
 <tr>
-<td width="65%" align="left">
-
 </td>
 <td width="35%" align="right">
 
