@@ -293,53 +293,44 @@ I operate at the intersection of **quantitative finance**, **applied artificial 
 <a href="https://medium.com/@sayematrix">
 <img src="https://img.shields.io/badge/Medium-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
+
 <a href="https://sayematrix.substack.com/">
 <img src="https://img.shields.io/badge/Substack-sayematrix-FF6719?style=for-the-badge&logo=substack&logoColor=white" />
 </a>
+
 <a href="https://www.linkedin.com/in/sayematrix/">
 <img src="https://img.shields.io/badge/LinkedIn-sayematrix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://medium.com/publications">
-<img src="https://img.shields.io/badge/Medium%20Publications-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://towardsdatascience.com/">
-<img src="https://img.shields.io/badge/Towards%20Data%20Science-sayematrix-FE5A1D?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://towardsai.net/">
-<img src="https://img.shields.io/badge/Towards%20AI-sayematrix-111111?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.kdnuggets.com/">
-<img src="https://img.shields.io/badge/KDnuggets-sayematrix-1D4ED8?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.analyticsvidhya.com/">
-<img src="https://img.shields.io/badge/Analytics%20Vidhya-sayematrix-0B8457?style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://dev.to/sayematrix">
-<img src="https://img.shields.io/badge/DEV-sayematrix-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-<a href="https://hashnode.com/@sayematrix">
-<img src="https://img.shields.io/badge/Hashnode-sayematrix-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
-</a>
-<a href="https://www.quora.com/profile/sayematrix">
-<img src="https://img.shields.io/badge/Quora-sayematrix-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
-</a>
-<a href="https://www.reddit.com/user/sayematrix/">
-<img src="https://img.shields.io/badge/Reddit-sayematrix-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
+
 <a href="https://x.com/sayematrix">
 <img src="https://img.shields.io/badge/X-sayematrix-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/@sayematrix">
-<img src="https://img.shields.io/badge/YouTube-sayematrix-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+
+<a href="https://dev.to/sayematrix">
+<img src="https://img.shields.io/badge/DEV-sayematrix-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Research%20Blog-sayematrix-795548?style=for-the-badge&logoColor=white" />
+
+<a href="https://hashnode.com/@sayematrix">
+<img src="https://img.shields.io/badge/Hashnode-sayematrix-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+</a>
+
+<a href="https://imgwrite.com/">
+<img src="https://img.shields.io/badge/IMG%20Write-sayematrix-111111?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://towardsdatascience.com/">
+<img src="https://img.shields.io/badge/Towards%20Data%20Science-sayematrix-FE5A1D?style=for-the-badge&logoColor=white" />
+</a>
+
+<a href="https://www.quora.com/profile/sayematrix">
+<img src="https://img.shields.io/badge/Quora-sayematrix-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+</a>
+
+<a href="https://www.reddit.com/user/sayematrix/">
+<img src="https://img.shields.io/badge/Reddit-sayematrix-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
 </div>
-
----
-
 ###  𝐐𝐔𝐀𝐍𝐓 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄
 
 <div align="center">
