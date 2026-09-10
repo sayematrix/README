@@ -62,23 +62,6 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="65%" align="left">
-
-<b>Writing, Media & Knowledge Platforms</b>
-
-</td>
-<td width="35%" align="right">
-
-<a href="https://medium.com/@sayematrix">
-<img src="https://img.shields.io/badge/Medium-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" height="35" />
-</a>
-
-<a href="https://sayematrix.substack.com/">
-<img src="https://img.shields.io/badge/Substack-sayematrix-FF6719?style=for-the-badge&logo=substack&logoColor=white" height="35" />
-</a>
-
 </td>
 </tr>
 </table>
@@ -144,26 +127,6 @@
 
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="65%" align="left">
-
-<b>Quantitative Trading & Strategy Platforms</b>
-
-</td>
-<td width="35%" align="right">
-
-<a href="https://www.tradingview.com/u/sayematrix/">
-<img src="https://img.shields.io/badge/TradingView-sayematrix-131722?style=for-the-badge&logo=tradingview&logoColor=white" height="35" />
-</a>
-
-<a href="https://www.mql5.com/en/users/sayematrix">
-<img src="https://img.shields.io/badge/MQL5-sayematrix-00AEEF?style=for-the-badge&logoColor=white" height="35" />
-</a>
-
-</td>
-</tr>
-</table>
 
 </div>
 
