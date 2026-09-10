@@ -4,10 +4,6 @@
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
 <a href="https://github.com/sayematrix">
 <img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -62,14 +58,6 @@
 
 <div align="center">
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
 <a href="https://medium.com/@sayematrix">
 <img src="https://img.shields.io/badge/Medium-sayematrix-000000?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
@@ -115,20 +103,12 @@
 <a href="#">
 <img src="https://img.shields.io/badge/Research%20Blog-sayematrix-795548?style=for-the-badge&logoColor=white" />
 </a>
-<a href="#">
-<img src="https://img.shields.io/badge/Newsletter-sayematrix-FF9800?style=for-the-badge&logoColor=white" />
-</a>
 
 </div>
 
 ---
 
 ###  𝐐𝐔𝐀𝐍𝐓 𝐈𝐍𝐓𝐄𝐋𝐋𝐈𝐆𝐄𝐍𝐂𝐄
-
-<div align="center">
-
-
-</div>
 
 <div align="center">
 
@@ -173,6 +153,9 @@
 </a>
 <a href="https://www.forexfactory.com/">
 <img src="https://img.shields.io/badge/Forex%20Factory-sayematrix-4CAF50?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/sayematrix">
+<img src="https://img.shields.io/badge/GitHub-sayematrix-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
